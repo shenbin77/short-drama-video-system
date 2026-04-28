@@ -1,0 +1,147 @@
+{
+  "company_delivery": {
+    "auto_select": true,
+    "delivery_method": "feishu",
+    "enabled": true,
+    "schedule": [
+      "10:00",
+      "16:00",
+      "19:00"
+    ],
+    "videos_per_day": 3
+  },
+  "deepseek": {
+    "api_key": "sk-ab3fdec28bcb4a929a0e40bd4e05e4ce",
+    "enabled": true,
+    "models": {
+      "director": "deepseek-chat",
+      "quality_check": "deepseek-vl"
+    }
+  },
+  "nvidia": {
+    "api_key": "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",
+    "base_url": "https://integrate.api.nvidia.com/v1",
+    "enabled": true,
+    "models": {
+      "vision_audit": "nvidia/nemotron-nano-12b-v2-vl",
+      "prompt_gen": "meta/llama-4-maverick-17b-128e-instruct",
+      "content_safety": "nvidia/llama-3.1-nemoguard-8b-content-safety"
+    }
+  },
+  "feishu": {
+    "app_id": "cli_a92c5b6929f8dbdb",
+    "app_secret": "f6cuXVMNuYMJ9Z5cJfdwCfIYdeuJh4ta",
+    "message": {
+      "chat_id": "oc_4fcabe17f47a253f39a999461f1be63b",
+      "with_video_card": true
+    },
+    "secret": "",
+    "upload": {
+      "drive_folder_id": "",
+      "target_type": "drive"
+    },
+    "webhook_url": "https://open.feishu.cn/open-apis/bot/v2/hook/66f8f98d-76d2-49e1-94b1-1f31b02bfa82"
+  },
+  "local_image": {
+    "qwen_edit": {
+      "enabled": true,
+      "base_url": "http://127.0.0.1:7861",
+      "timeout": 180
+    }
+  },
+  "local_video": {
+    "default_render_mode": "final",
+    "final_backend": "ltx23_desktop",
+    "preview_backend": "kenburns",
+    "fallback_backend": "kenburns",
+    "backends": {
+      "ltx23_desktop": {
+        "api_url": "http://127.0.0.1:3000",
+        "model": "fast",
+        "duration": 5,
+        "fps": 24,
+        "resolution": "720p",
+        "aspect_ratio": "16:9",
+        "camera_motion": "none",
+        "use_upscaler": false,
+        "prompt_enhancer_i2v": false,
+        "negative_prompt": "blurry, text, watermark, low quality, deformed, disfigured, bad anatomy",
+        "outputs_dir": "E:\\视频项目\\Layer_5_Engines\\video\\ltx-desktop\\LTXDesktop\\outputs"
+      }
+    }
+  },
+  "logging": {
+    "file": "logs/video_project.log",
+    "level": "INFO"
+  },
+  "notify": {
+    "enabled": false,
+    "mention": [
+      "张三",
+      "李四"
+    ],
+    "message": {
+      "success": "✅ 第{chapter}章视频生成完成！\n\n📖 小说: {novel_name}\n🎬 章节: {chapter}\n⏱️ 耗时: {duration}分钟\n👤 负责人: {mentions}\n\n📂 飞书云空间: {cloud_link}\n"
+    }
+  },
+  "oneapi": {
+    "api_key": "sk-opJi2Imz28Uw2kQo50Da916002B843Cf95998eCe7e8199E2",
+    "base_url": "http://localhost:3002/v1",
+    "enabled": true,
+    "models": {
+      "fallback": "qwen2.5:3b",
+      "novel": "deepseek-chat",
+      "prompt": "gemini-2.5-flash",
+      "script": "doubao-1-5-pro-32k-250115"
+    }
+  },
+  "safety": {
+    "budget_limit_yuan": 50.0,
+    "circuit_breaker_threshold": 5
+  },
+  "storage": {
+    "cleanup": {
+      "cleanup_hour": 4,
+      "cleanup_trigger": "daily",
+      "delete_after": 90,
+      "enabled": true,
+      "keep_final_forever": true,
+      "keep_final_only_after": 20,
+      "keep_recent_chapters": 10
+    },
+    "folder_structure": {
+      "by_novel": true,
+      "by_owner": true
+    }
+  },
+  "style": {
+    "company": "realistic",
+    "locked": true,
+    "personal": "realistic"
+  },
+  "toonflow": {
+    "base_url": "http://localhost:60000",
+    "image_timeout": 600,
+    "password": "admin123",
+    "style_prompt": "photorealistic film still, shot on Arri Alexa 65, anamorphic lens, cinematic color grading, volumetric god rays, shallow depth of field, natural skin texture, real fabric wrinkles, practical lighting, dark eastern fantasy live action, rich saturated tones, masterpiece, best quality, ultra HD",
+    "username": "admin",
+    "video_timeout": 600
+  },
+  "video": {
+    "final_resolution": "1080x1920",
+    "generation_resolution": "720x1280",
+    "prompt": {
+      "negative": "no text, no subtitle, no watermark, no logo",
+      "required": "画面不要出现任何字幕"
+    },
+    "provider": "local",
+    "quality": {
+      "check_rate": 1.0,
+      "face_match_threshold": 0.85
+    },
+    "scenes_per_chapter": 8,
+    "seconds_per_scene": 10,
+    "upscale_model": "realesrgan-x4plus-anime",
+    "upscale_scale": 2
+  }
+}

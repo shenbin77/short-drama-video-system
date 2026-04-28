@@ -1,0 +1,163 @@
+# ════════════════════════════════════════════════════════════════
+# 品牌视觉风格指南 — 3D Animation (皮克斯/迪士尼/游戏CG风格)
+# ════════════════════════════════════════════════════════════════
+#
+# 定位: 3D动漫风格(Pixar/Disney/Unreal Engine CG)，适配多题材
+# 目标: 小红书/抖音热门风格，视觉冲击力强，质感高级
+# 生成后端: LTX-2.3 Desktop (720p, 24fps, 9:16竖屏)
+#
+# 核心原则:
+#   1. 统一3D动漫画风，题材多样，不锁死特定类型
+#   2. 起步阶段优先: 稳定量产 > 快速验证 > 低成本试错
+#   3. 全球发行: 中文配音 + 英文字幕(海外), 中文字幕(国内)
+
+# ── 视觉身份 ──────────────────────────────────────────────────
+
+visual_identity:
+  name: "3D Animation"
+  tagline: "皮克斯/迪士尼3D动漫风格，电影级CG质感"
+
+  # 角色面部: 3D动漫角色风格
+  face_style: "Pixar-style 3D character, expressive eyes, smooth skin, subsurface scattering, detailed hair strands"
+
+  # 服装/世界观: 根据题材自动适配
+  costume_style: "genre-adaptive costumes with fabric physics, detailed embroidery and accessories, PBR materials"
+
+  # 镜头/特效: 电影级CG镜头语言
+  cinematography: "cinematic camera angles, depth of field, volumetric lighting, lens flare, motion blur, epic scale"
+
+  # 制作方式: 3D CG渲染风格
+  production: "3D CGI animation, Pixar quality, Unreal Engine 5 render, Octane render, ray tracing"
+
+  # 色调基调
+  color_palette:
+    primary: ["题材自适应"]
+    accent: ["电影级调色", "暖光氛围", "环境光遮蔽"]
+    mood: "cinematic, rich colors, warm lighting, high detail textures, film grain"
+
+  # 禁止的视觉方向 (避免同质化)
+  avoid:
+    - "2D平面动漫 (与3D风格冲突)"
+    - "真人写实 (不适合量产)"
+    - "粗糙简笔画 (质量太低)"
+    - "恐怖谷效果 (过于逼真的人脸)"
+
+# ── 内容内核 ──────────────────────────────────────────────────
+
+content_identity:
+  genre_label_cn: "3D动漫AI短剧"
+  genre_label_en: "3D Animation AI Short Drama"
+  alt_label_en: "AI-generated 3D animation short drama, Pixar-style, multi-genre"
+
+  # 内容原则（适用所有题材）
+  pillars:
+    - name: "强冲突"
+      desc: "每章必有矛盾/冲突/悬念，驱动观众追剧"
+      example: "权谋背叛/生死抉择/感情纠葛/力量觉醒"
+
+    - name: "情绪价值"
+      desc: "观众看短剧就是为了情绪，每章要有高潮点"
+      example: "爽感/虐心/甜蜜/震撼/逆转"
+
+    - name: "角色鲜明"
+      desc: "每个角色有辨识度，一句话说清人设"
+      example: "冷面战神/腹黑千金/热血少年/阴谋家"
+
+    - name: "节奏紧凑"
+      desc: "40-80秒内讲完一个完整情节单元"
+      example: "开场→冲突→高潮→悬念留存"
+
+    - name: "视觉记忆点"
+      desc: "每章至少一个视觉名场面"
+      example: "史诗战斗/情绪特写/环境渲染/标志性道具"
+
+  # 外层包装 (吸引点击)
+  outer_hooks:
+    - "3D动漫角色"
+    - "电影级画面"
+    - "皮克斯质感"
+    - "情绪特写"
+    - "史诗场景"
+
+  # 内层内容 (留存核心)
+  inner_hooks:
+    - "宗门羞辱 → 废柴逆袭"
+    - "血脉觉醒 → 代价递增"
+    - "禁术爆发 → 失去记忆"
+    - "师门背叛 → 真相反转"
+    - "排位对决 → 生存压力"
+
+# ── 题材优先级 (ROI排序) ────────────────────────────────────
+
+genre_priority:
+  - rank: 1
+    name: "中式咒术 / 道术驱邪宇宙"
+    one_liner: "禁忌之力有代价，以算计和隐忍在黑暗世界求生"
+    seed_example: "禁蛊录"
+    differentiation: 9
+    global_appeal: 9
+
+  - rank: 2
+    name: "山海经怪物宇宙"
+    one_liner: "上古异兽苏醒，猎人用身体赌命换取异兽之力"
+    seed_example: "山海猎人"
+    differentiation: 9
+    global_appeal: 8
+
+  - rank: 3
+    name: "王朝秘术 / 龙脉封印宇宙"
+    one_liner: "皇朝废墟下的龙脉封印松动，秘术师重启禁忌"
+    seed_example: "待创建"
+    differentiation: 8
+    global_appeal: 7
+
+  - rank: 4
+    name: "传统修仙升级"
+    one_liner: "废物逆袭，宗门争斗，境界突破"
+    seed_example: "龙象焚天"
+    differentiation: 5
+    global_appeal: 6
+    note: "太拥挤，仅作补充产能，不作主推"
+
+# ── 一句话世界观模板 ──────────────────────────────────────────
+# 好的世界观必须具备:
+#   [规则] 这个世界怎么运作
+#   [力量] 谁强谁弱，怎么变强
+#   [组织] 谁属于哪一边
+#   [符号] 有什么一眼记得住的东西
+#   [冲突] 为什么会打起来
+#   [扩展性] 后面还能不断加故事
+
+world_building_checklist:
+  - "规则: 力量系统的核心机制是什么？代价是什么？"
+  - "力量: 等级/阶段划分是否清晰？变强路径是否有风险？"
+  - "组织: 至少3-4个势力，各有利益冲突"
+  - "符号: 一个一眼记住的视觉/概念符号"
+  - "冲突: 为什么各方会打起来？资源稀缺？信仰对立？"
+  - "扩展性: 能否不断加新区域/新势力/新赛季？"
+
+# ── prompt 风格标签 (注入到分镜/视频生成) ─────────────────────
+
+prompt_tags:
+  # 分镜图片后缀 — 3D动漫风格
+  storyboard_suffix: >-
+    ，Pixar-style 3D animation, Disney quality CG, Unreal Engine 5 render,
+    octane render, subsurface scattering, volumetric lighting, depth of field,
+    cinematic composition, rich textures, detailed fabric and hair,
+    eastern fantasy costume elements, mystical atmosphere,
+    ultra HD, no text, no titles, no watermarks, no letters, no subtitles, no logo, no words, no Chinese characters in image
+
+  # 视频生成前缀 — 3D动漫风格
+  video_prefix: >-
+    3D cinematic animation style, Pixar-quality rendering, film-grade CG visuals,
+    smooth camera movement, volumetric lighting, detailed 3D character models,
+    rich textures and materials, dramatic atmosphere,
+    画面不要出现任何字幕。
+
+  # negative prompt 补充
+  negative_additions:
+    - "blurry, low quality"
+    - "2D flat anime"
+    - "rough sketch"
+    - "deformed anatomy"
+    - "text, watermark, logo, subtitle"

@@ -1,0 +1,115 @@
+# Multi-Agent Orchestrator Configuration
+# 多Agent集群协调器配置
+
+version: "1.0.0"
+
+# ── Agent配置 ──────────────────────────────────────
+agents:
+  NovelAgent:
+    enabled: true
+    mcp_server: "novel_generator"
+    max_concurrent: 1
+    timeout_seconds: 28800  # 8小时
+
+  ImageAgent:
+    enabled: true
+    mcp_server: "image_generator"
+    max_concurrent: 4
+    timeout_seconds: 300
+
+  VideoAgent:
+    enabled: true
+    mcp_server: "video_generator"
+    max_concurrent: 2
+    timeout_seconds: 7200  # 2小时
+
+  TTSAgent:
+    enabled: true
+    mcp_server: "tts"
+    max_concurrent: 4
+    timeout_seconds: 600
+
+  PublisherAgent:
+    enabled: true
+    mcp_server: "publisher"
+    max_concurrent: 3
+    timeout_seconds: 300
+
+  OpsEvolutionAgent:
+    enabled: true
+    mcp_server: "ops_evolution"
+    max_concurrent: 1
+    timeout_seconds: 1800
+
+  QualityGuardAgent:
+    enabled: true
+    mcp_server: null  # 本地执行
+    max_concurrent: 2
+    timeout_seconds: 600
+
+# ── 流水线配置 ──────────────────────────────────────
+pipeline:
+  # 默认题材
+  default_genre: "xianxia"
+
+  # 视频队列最低章节数
+  min_queue_chapters: 50
+
+  # 章节间等待(秒)
+  sleep_between_chapters: 30
+
+  # 进化间隔(处理N本小说后)
+  evolution_interval: 3
+
+  # 自动发布
+  auto_publish: true
+
+  # 发布平台 (按优先级)
+  publish_platforms:
+    - douyin
+    - kuaishou
+    - hongguo
+    - xiaohongshu
+    - bilibili
+    - youtube
+    - tiktok
+    - fanqie
+
+# ── 调度器配置 ──────────────────────────────────────
+scheduler:
+  # 视频管线24h运行
+  video_pipeline_24h: true
+
+  # 小说管线按需
+  novel_pipeline_on_demand: true
+
+  # 空队列等待(秒)
+  sleep_empty_queue: 600
+
+  # 最大失败重试
+  max_retries: 3
+
+# ── 运营进化配置 ──────────────────────────────────────
+evolution:
+  # 自动运行进化周期
+  auto_evolve: true
+
+  # 进化周期(小时)
+  evolve_interval_hours: 24
+
+  # AutoDream触发
+  auto_dream: true
+
+  # 梦境日志保留数量
+  dream_log_keep: 30
+
+# ── 质量门禁 ──────────────────────────────────────
+quality:
+  # 最低完播率
+  min_completion_rate: 0.3
+
+  # 最低互动率
+  min_engagement_rate: 0.05
+
+  # 自动质量检查
+  auto_check: true

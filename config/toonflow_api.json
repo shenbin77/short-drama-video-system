@@ -1,0 +1,8 @@
+﻿{
+    "password":  "admin123",
+    "auth_endpoint":  "/other/login",
+    "note":  "Use POST /other/login with JSON body to get token",
+    "username":  "admin",
+    "token_header":  "Authorization",
+    "base_url":  "http://localhost:60000"
+}

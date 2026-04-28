@@ -1,0 +1,43 @@
+# 24h 生产配置 — 禁蛊录 (沈无渊)
+# 2026-04-27
+
+production:
+  novel: "禁蛊录"
+  style: "3d"                          # 3D国漫风格
+  target_episode_seconds: 80           # 每集目标时长
+  seedance_clip_seconds: 15            # Seedance 2.0 每段时长
+  storyboards_per_episode: 7           # 分镜图数量 (6段+1共享帧)
+  video_clips_per_episode: 6           # 视频片段数
+  image_backend: "gpt_image2"          # 主力: CatGPT → GRSAI fallback
+  video_backend: "seedance"            # Seedance 2.0 首尾帧 (云端)
+  image_candidates: 1                  # 不抽卡, 一次过
+  max_shots: 7                         # 每集最大分镜数
+
+# Seedance 首尾帧配置
+seedance:
+  duration: 15                         # 秒
+  ratio: "9:16"                        # 竖版
+  resolution: "1080x1920"              # 原生1080p
+  mode: "first_and_last_frames"
+
+# 图片生成
+image:
+  backend: "gpt_image2"
+  fallback: "grsai_image2"
+  style_prefix: "3D render, chinese anime, xianxia fantasy, cinematic lighting"
+  aspect_ratio: "9:16"
+  width: 832
+  height: 1216
+
+# 后期处理
+post_production:
+  tts_engine: "edge-tts"               # 先用 edge-tts, 后续切 Qwen3-TTS
+  subtitles: true
+  upscale: false                       # Seedance 原生 1080p, 无需超分
+  portrait_convert: false              # Seedance 原生 9:16, 无需转换
+
+# 小说生成 (章节不够时自动补)
+novel_generation:
+  auto_generate: true
+  min_queue_chapters: 5                # 队列低于5章自动生成
+  generator: "deepseek"

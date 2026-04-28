@@ -1,0 +1,75 @@
+{
+  "default": {
+    "checkpoint": "NoobAI-XL-v1.1.safetensors",
+    "ipadapter_weight": 0.4,
+    "ipadapter_weight_type": "style transfer",
+    "sampler": "euler",
+    "scheduler": "karras",
+    "steps": 20,
+    "cfg": 6,
+    "lightning_lora": "Hyper-SDXL-8steps-lora.safetensors",
+    "lightning_lora_strength": 0.4,
+    "width": 832,
+    "height": 1216,
+    "video_prefix": "生成视频为2020s日式动漫风格，画面精美锐利，高对比度光影，角色面部为现代anime风格（大眼睛/高光/锐利轮廓），服装保留东方玄幻元素，整体氛围神秘压抑，画面不要出现任何字幕。",
+    "storyboard_suffix": ", score_9, score_8_up, score_7_up, score_6_up, 2020s anime, modern anime, isekai anime, expressive eyes, detailed eyes, eye highlights, catchlight, shiny eyes, sharp clean lineart, smooth linework, vivid colors, high saturation, high contrast, cinematic lighting, volumetric lighting, atmospheric, neon rim lighting, cyan rim light, deep purple shadows, warm face lighting, dark background, eastern fantasy, chinese costume, cursed markings, mystical symbols, dynamic pose, dynamic angle, cinematic composition, detailed shading, cel shading, dark anime, seinen",
+    "visual_style_anchor": "dark_background, eerie, occult, gothic, dark atmosphere, high contrast, cinematic lighting, neon rim lighting, cyan accent, deep purple tones, warm face lighting, eastern_fantasy, chinese_costume, cursed_markings, mystical_symbols, anime_face, expressive_eyes, eye_highlights, sharp_eyes, 2020s_anime, modern_anime",
+    "visual_negative": "score_4, score_5, score_6, sketch, rough sketch, rough lines, messy lines, grainy, noisy, unfinished, simple, flat colors only, cheerful, sunny, moe, cute, chibi, pastel, photorealistic, realistic, 3d, 3d render, 3dcg, blender render, octane render, unreal engine, cgi, western_armor, western_comics, american_comics, modern_clothes, casual, concept art, collage, multi panel, split screen, character card, character sheet, grayscale, monochrome, sepia, lowres, bad anatomy, bad hands, text, watermark, logo, subtitle, signature, jpeg artifacts, worst quality, low quality, normal quality, AI生成, 水印, realistic_proportions, mature_male",
+    "asset_prompts": {
+      "scene": "{visual_style_anchor}, wide_shot, establishing_shot, cinematic_composition, dark_mist, ruined_eastern_architecture, oppressive_cursed_atmosphere, {name}, {desc}, detailed_2d_background_painting, no_characters, no_text, no_watermark",
+      "prop": "{visual_style_anchor}, single_prop, centered_design_sheet, dark_textured_background, {name}, {desc}, anime_prop_painting, sharp_silhouette, occult_engraving, no_human, no_hands, no_text, no_watermark"
+    }
+  },
+  "projects": {
+    "3": {
+      "name": "禁蛊录(3D国漫)",
+      "image_engine": "klein",
+      "klein_dual_branch": false,
+      "klein_unet": "flux-2-klein-9b-fp8.safetensors",
+      "klein_clip": "qwen_3_8b_fp8mixed.safetensors",
+      "klein_vae": "flux2-vae.safetensors",
+      "klein_lora": "Flux2-Klein-9B-consistency-V2.safetensors",
+      "klein_lora_strength": 0.8,
+      "klein_steps": 4,
+      "klein_cfg": 1.0,
+      "sampler": "euler",
+      "scheduler": "flux2",
+      "steps": 8,
+      "cfg": 1.0,
+      "width": 832,
+      "height": 1216,
+      "video_prefix": "生成视频为3D国漫风格，高精度3D渲染，角色面部为东方仙侠美型风格（精致五官/立体轮廓/细腻皮肤质感），服装为华丽古风仙侠服饰（飘逸丝绸/金属配饰/刺绣细节），场景为宏大东方玄幻世界（悬浮仙山/古老宫殿/灵气特效），光影为电影级 volumetric lighting，色彩浓郁饱和带有神秘氛围，画面不要出现任何字幕。",
+      "storyboard_suffix": ", Chinese xianxia 3D CG animation style, like Wang Lin in Renegade Immortal donghua, like Xiao Yan in Battle Through the Heavens animation, high detail 3D CG render, jade-white cold skin with subtle luminosity, almond-shaped eyes with multi-layer sharp highlights, jet black straight hair with perfect sheen, tall slender 185cm physique with otherworldly presence, sharp angular jawline, defined high cheekbones, cold stoic proud expression, thin lips, flowing dark silk robes, cool blue-purple moonlight rim lighting, misty dark atmospheric background with spiritual energy, deep saturated cold colors, no text, no watermark",
+      "visual_style_anchor": "chinese_xianxia_3D_CG_animation, wang_lin_renegade_immortal_style, high_detail_3D_CG_render, jade_white_skin_cold_luminosity, almond_shaped_eyes_multi_highlight, jet_black_straight_hair_high_sheen, sharp_angular_jawline, defined_high_cheekbones, cold_stoic_expression, flowing_dark_silk_robes, cool_blue_purple_rim_lighting, misty_dark_atmospheric_background, spiritual_energy_effects, deep_saturated_cold_colors",
+      "scene_visual_anchor": "high_quality_3D_CGI_environment, chinese_xianxia_animation_background, game_engine_quality_scene, volumetric_lighting, mystical_fog, ancient_eastern_architecture, floating_immortal_mountains, ancient_palaces, crumbling_stone_ruins, spiritual_energy_effects, magical_particles, deep_atmospheric_colors, dramatic_shadows",
+      "visual_negative": "lowres, bad anatomy, bad hands, extra hands, three hands, extra fingers, fewer digits, deformed hands, mutated hands, fused fingers, too many fingers, text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, Disney style, Pixar style, DreamWorks style, round face, chubby cheeks, baby face, childlike features, cute expression, soft round features, warm golden lighting, bright cheerful background, western animation, 2d flat shading, pencil sketch, oil painting, watercolor, concept sketch, moe, chibi, loli, multiple people, extra faces, crowd, background people, duplicate person, hyperrealistic, photorealistic, ultra realistic, real skin pores, real skin texture, live action, photograph, photo, live person, western armor, western comics, american comics, modern clothes, casual, clay render, plastic texture, toon render, dull colors, plain face, ugly face, bad face, deformed face, asymmetrical eyes",
+      "asset_prompts": {
+        "scene": "{desc}, {name}, {scene_visual_anchor}, wide_shot, establishing_shot, cinematic_composition, 3D_CGI_environment_render, empty_scene_no_characters, no_people, no_person, no_human, no_character, no_face, no_body, no_figure, background_only, environment_only, no_text, no_watermark",
+        "prop": "single levitating xianxia magical artifact, {name}, {desc}, high quality 3D CGI prop render, centered floating on pure dark background, studio spotlight lighting, glowing magical aura, intricate surface detail, metallic and jade material, no human, no person, no hands, no arms, no body, no face, no character, no figure, isolated prop only, no text, no watermark"
+      },
+      "scene_reflat_weight": 0.3
+    },
+    "3_anime": {
+      "name": "禁蛊录(动漫备选)",
+      "checkpoint": "NoobAI-XL-v1.1.safetensors",
+      "ipadapter_weight": 0.4,
+      "ipadapter_weight_type": "style transfer",
+      "sampler": "euler",
+      "scheduler": "karras",
+      "steps": 20,
+      "cfg": 6,
+      "lightning_lora": "Hyper-SDXL-8steps-lora.safetensors",
+      "lightning_lora_strength": 0.4,
+      "width": 832,
+      "height": 1216,
+      "video_prefix": "生成视频为2020s日式动漫风格，画面精美锐利，高对比度光影，角色面部为现代anime风格（大眼睛/高光/锐利轮廓），服装保留东方玄幻元素，整体氛围神秘压抑，画面不要出现任何字幕。",
+      "storyboard_suffix": ", score_9, score_8_up, score_7_up, score_6_up, 2020s anime, modern anime, isekai anime, expressive eyes, detailed eyes, eye highlights, catchlight, shiny eyes, sharp clean lineart, smooth linework, vivid colors, high saturation, high contrast, cinematic lighting, volumetric lighting, atmospheric, neon rim lighting, cyan rim light, deep purple shadows, warm face lighting, dark background, eastern fantasy, chinese costume, cursed markings, mystical symbols, dynamic pose, dynamic angle, cinematic composition, detailed shading, cel shading, dark anime, seinen",
+      "visual_style_anchor": "dark_background, eerie, occult, gothic, dark atmosphere, high contrast, cinematic lighting, neon rim lighting, cyan accent, deep purple tones, warm face lighting, eastern_fantasy, chinese_costume, cursed_markings, mystical_symbols, anime_face, expressive_eyes, eye_highlights, sharp_eyes, 2020s_anime, modern_anime",
+      "visual_negative": "score_4, score_5, score_6, sketch, rough sketch, rough lines, messy lines, grainy, noisy, unfinished, simple, flat colors only, cheerful, sunny, moe, cute, chibi, pastel, photorealistic, realistic, 3d, 3d render, 3dcg, blender render, octane render, unreal engine, cgi, western_armor, western_comics, american_comics, modern_clothes, casual, concept art, collage, multi panel, split screen, character card, character sheet, grayscale, monochrome, sepia, lowres, bad anatomy, bad hands, text, watermark, logo, subtitle, signature, jpeg artifacts, worst quality, low quality, normal quality, AI生成, 水印, realistic_proportions, mature_male",
+      "asset_prompts": {
+        "scene": "{visual_style_anchor}, wide_shot, establishing_shot, cinematic_composition, dark_mist, ruined_eastern_architecture, oppressive_cursed_atmosphere, {name}, {desc}, detailed_2d_background_painting, no_characters, no_text, no_watermark",
+        "prop": "{visual_style_anchor}, single_prop, centered_design_sheet, dark_textured_background, {name}, {desc}, anime_prop_painting, sharp_silhouette, occult_engraving, no_human, no_hands, no_text, no_watermark"
+      }
+    }
+  }
+}

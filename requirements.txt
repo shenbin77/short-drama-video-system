@@ -1,0 +1,34 @@
+# AI短剧视频生成系统 V10.0 - Python依赖
+# python 3.10+ required
+
+# ═══ 核心 ═══
+openai>=1.0.0              # LLM调用 (DeepSeek兼容接口)
+requests>=2.28.0           # HTTP客户端 (ToonFlow/ComfyUI/LTX API)
+pyyaml>=6.0                # 配置文件解析
+
+# ═══ 图片/视频质量检测 ═══
+numpy>=1.24.0              # 分镜图审计 (storyboard_checker)
+Pillow>=10.0.0             # 图片处理 (video_quality_review)
+scipy>=1.10.0              # 连通域分析 (人物数量检测)
+
+# ═══ TTS 配音 ═══
+edge-tts>=6.1.0            # 旁白+对白TTS (tts_narration.py)
+
+# ═══ 数据处理 ═══
+pandas>=2.0.0              # 运营数据分析
+openpyxl>=3.1.0            # Excel读写
+
+# ═══ WebSocket (ToonFlow Agent模式) ═══
+websockets>=12.0           # toonflow_agent_client.py
+
+# ═══ YouTube 上传 (可选) ═══
+google-api-python-client>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+
+# ═══ 外部工具 (非pip, 需手动安装) ═══
+# FFmpeg 5.0+      — 字幕烧录/视频合并/超分拆帧
+# ComfyUI          — 本地图片生成 (Klein 9B + 一致性V2 LoRA)
+# ToonFlow v1.0.7  — 分镜资产DB管理
+# 大雄 LTX-2 Workstation — 本地视频生成 (端口3000+4000)
+# Real-ESRGAN      — 已内置 tools/ 目录

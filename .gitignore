@@ -1,0 +1,80 @@
+# ═══ Python ═══
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# ═══ 敏感数据 ═══
+credentials/
+cookies/
+*.secret
+.env
+config/api_keys.json
+
+# ═══ 运行时数据 ═══
+ops.db
+ops.db-journal
+scheduler_state.json
+video_queue.json
+ops_data/
+ops_reports/
+ops_evolution.log
+
+# ═══ 日志 ═══
+logs/
+*.log
+pipeline.log
+scheduler.log
+segments.log
+tts_narration.log
+
+# ═══ 临时文件 ═══
+temp/
+backup/
+*.bak
+*.zip
+
+# ═══ 生成产出 (太大, 不入仓库) ═══
+output/
+data/
+quality_logs/
+
+# ═══ 第三方工具 ═══
+tools/realesrgan-ncnn-vulkan/
+
+# ═══ ToonFlow 源码备份 ═══
+toonflow-source/
+
+# ═══ social-auto-upload (子项目, 有自己的 .gitignore) ═══
+social-auto-upload/.venv/
+
+# ═══ AI_NovelGenerator 产出 ═══
+AI_NovelGenerator/novels/
+AI_NovelGenerator/vectorstore/
+
+# 配置文件含密钥
+Layer_6_Services/config/config.yaml
+config.yaml
+# 数据库
+data/ops.db
+*.db
+# 日志
+Layer_6_Services/logs/
+ops_reports/
+# 环境变量
+.env
+
+# ═══ IDE / OS ═══
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+.DS_Store
+desktop.ini

@@ -1,0 +1,39 @@
+project_id: 3
+script_id: 8
+project_name: 禁蛊录
+main_character: 沈无渊
+
+novel:
+  source_path: E:/视频项目/output/chapter_1.txt
+  alternate_paths:
+    - E:/视频项目/Layer_2.2_Video/raw/Layer_2.2_Video/output/ch1_novel.txt
+  rejected_paths:
+    - E:/视频项目/Layer_1_Novel/output/禁蛊录/chapters/chapter_1.txt
+  note: "生产以沈无渊地牢回廊版为准；林禁版不是当前 Script 8 视频源。"
+
+character_refs:
+  primary:
+    - E:/视频项目/Layer_2.1_Images/raw/characters/禁蛊录/char_ref_沈无渊.png
+  directory: E:/视频项目/Layer_2.1_Images/raw/characters/禁蛊录
+
+storage:
+  toonflow_db: "%APPDATA%/toonflow-app/db.sqlite"
+  uploads_root: "%APPDATA%/toonflow-app/uploads"
+  storyboard_dir: "%APPDATA%/toonflow-app/uploads/3/storyboard"
+
+storyboard:
+  expected_count: 20
+  status_rule: "文件存在且 size > 0 才算有效；0KB 视为生成失败。"
+
+video:
+  backend: ltx23_desktop
+  api_base: http://127.0.0.1:3000
+  output_dir: E:/视频项目/scripts/test_output/script8_final
+  horizontal_output_dir: E:/视频项目/scripts/test_output/script8_final_horizontal
+  lora_policy: "先禁用 LoRA 跑通稳定链路；VBVR LoRA 后续单独 A/B 测试。"
+  upscaler: false
+  torch_compile: false
+
+known_issues:
+  - "Script 8 Shot 08-20 曾检测为 0KB 空图片，需要重新生成或修复。"
+  - "LTX Desktop 命令行后端在 step 0/8 卡死，疑似 RAM/推理初始化问题。"

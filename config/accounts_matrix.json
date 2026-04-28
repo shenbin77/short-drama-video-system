@@ -1,0 +1,32 @@
+{
+  "default_profile": "main",
+  "platform_accounts": {
+    "douyin": "creator",
+    "kuaishou": "creator",
+    "xiaohongshu": "creator",
+    "bilibili": "creator",
+    "youtube": "default"
+  },
+  "profiles": {
+    "main": {
+      "description": "主矩阵账号",
+      "platform_accounts": {
+        "douyin": "creator",
+        "kuaishou": "creator",
+        "xiaohongshu": "creator",
+        "bilibili": "creator",
+        "youtube": "default"
+      }
+    },
+    "backup": {
+      "description": "备用矩阵账号",
+      "platform_accounts": {
+        "douyin": "creator_backup",
+        "kuaishou": "creator_backup",
+        "xiaohongshu": "creator_backup",
+        "bilibili": "creator_backup",
+        "youtube": "backup"
+      }
+    }
+  }
+}
