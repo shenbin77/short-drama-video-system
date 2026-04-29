@@ -65,9 +65,9 @@ def _read_novel_name() -> str:
         pass
     cfg2 = FACTORY_DIR.parent / "01_小说工厂" / "config.json"
     try:
-        return json.loads(cfg2.read_text(encoding="utf-8")).get("novel_name", "禁襃录")
+        return json.loads(cfg2.read_text(encoding="utf-8")).get("novel_name", "禁蛊录")
     except Exception:
-        return "禁襃录"
+        return "禁蛊录"
 
 NOVEL_NAME = _read_novel_name()
 
@@ -425,7 +425,8 @@ def process_chapter(chapter_file, characters):
         log.info(f"  🖼️ Shot {i+1}/{len(shots)}: generating image... chars={shot_chars}")
 
         backend = generate_image(full_prompt, img_path, char_names=shot_chars, shot_scene=shot_scene)
-        return i, str(img_path) if backend else None, backend
+        path = str(img_path) if backend else None
+        return i, path, backend
 
     results = {}
     with ThreadPoolExecutor(max_workers=2) as executor:

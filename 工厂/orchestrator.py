@@ -40,7 +40,7 @@ FACTORIES = {
         "output_dir": SERVICES_DIR / "02_图片工厂" / "output",
     },
     "video": {
-        "name": "� 03_视频工厂",
+        "name": "🎬 03_视频工厂",
         "script": SERVICES_DIR / "03_视频工厂" / "video_factory.py",
         "args": [],
         "daemon_args": ["--daemon"],
@@ -52,7 +52,7 @@ FACTORIES = {
         "script": SERVICES_DIR / "04_音频合成工厂" / "assembly_factory.py",
         "args": [],
         "daemon_args": ["--daemon", "--tts", "auto"],
-        "queue_dir": SERVICES_DIR / "04_音频合成工厂" / "output",
+        "queue_dir": SERVICES_DIR / "04_音频合成工厂" / "queue",
         "output_dir": SERVICES_DIR / "04_音频合成工厂" / "output",
     },
     "ops": {
@@ -115,7 +115,7 @@ def print_status():
     print(f"  📖 01_小说工厂   | 已写: {s.get('novel_output',0):3d} 章 | 队列: {s.get('novel_queue',0):3d}")
     print(f"  🎨 02_图片工厂   | 已出: {s.get('storyboard_output',0):3d} 集 | → 视频队列: {s.get('video_queue',0):3d}")
     print(f"  🎬 03_视频工厂   | 已出: {s.get('video_output',0):3d} 集 | → 合成队列: {s.get('assembly_queue',0):3d}")
-    print(f"  � 合成工厂   | 成品: {s.get('final_output',0):3d} 集 | → 发布队列: {s.get('publish_ready',0):3d}")
+    print(f"  🎵 合成工厂   | 成品: {s.get('final_output',0):3d} 集 | → 发布队列: {s.get('publish_ready',0):3d}")
     print(f"  📊 06_运营工厂   | 已发: {s.get('published',0):3d} 集")
     print("=" * 60)
 

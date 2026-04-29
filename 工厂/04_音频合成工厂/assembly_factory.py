@@ -23,6 +23,7 @@ import asyncio
 import json
 import logging
 import os
+import shutil
 import subprocess
 import sys
 import time
@@ -49,14 +50,14 @@ def _novel_name() -> str:
     try:
         import yaml
         data = yaml.safe_load(cfg_path.read_text(encoding="utf-8")) or {}
-        return data.get("novel_name", "禁襃录")
+        return data.get("novel_name", "禁蛊录")
     except Exception:
         pass
     cfg2 = FACTORY_DIR.parent / "01_小说工厂" / "config.json"
     try:
-        return json.loads(cfg2.read_text(encoding="utf-8")).get("novel_name", "禁襃录")
+        return json.loads(cfg2.read_text(encoding="utf-8")).get("novel_name", "禁蛊录")
     except Exception:
-        return "禁襃录"
+        return "禁蛊录"
 
 NOVEL_NAME = _novel_name()
 
@@ -248,7 +249,6 @@ def process_episode(episode_file, tts_mode="auto"):
     merged_video = ep_temp / "merged.mp4"
 
     if len(video_paths) == 1:
-        import shutil
         shutil.copy2(video_paths[0], merged_video)
     elif len(video_paths) > 1:
         if not merge_video_segments(video_paths, merged_video):
@@ -282,7 +282,6 @@ def process_episode(episode_file, tts_mode="auto"):
         # 拼接所有音频
         full_audio = ep_temp / "full_narration.m4a"
         if len(audio_parts) == 1:
-            import shutil
             shutil.copy2(audio_parts[0], full_audio)
         else:
             concat_audio_files(audio_parts, full_audio)
@@ -291,13 +290,13 @@ def process_episode(episode_file, tts_mode="auto"):
             log.info(f"  🎙️ Adding narration to video...")
             if add_audio_to_video(merged_video, full_audio, final_path):
                 log.info(f"  ✅ 成品: {final_path.name} ({final_path.stat().st_size // 1024}KB)")
+                _push_publish_queue(ep_num, final_path, data)
                 return True
             else:
                 log.warning(f"  ⚠️ Audio mix failed, using video without narration")
 
     # Fallback: 没有配音就直接用纯视频
     if not final_path.exists():
-        import shutil
         shutil.copy2(merged_video, final_path)
         log.info(f"  📼 成品(无配音): {final_path.name}")
 

@@ -118,8 +118,11 @@ def publish_episode(job: dict) -> bool:
     job["published_at"] = time.strftime("%Y-%m-%d %H:%M:%S")
     published_copy = PUBLISHED_DIR / job_file.name
     published_copy.write_text(json.dumps(job, ensure_ascii=False, indent=2), encoding="utf-8")
-    job_file.unlink(missing_ok=True)
     log.info(f"  📁 归档: {published_copy.name}")
+
+    # 发布成功后再删除源文件
+    if published_copy.exists():
+        job_file.unlink(missing_ok=True)
     return True
 
 
@@ -198,6 +201,17 @@ def main():
 
     if args.status:
         print_status()
+        return
+
+    if args.publish_now:
+        log.info("⚡ --publish-now 模式: 立即发布所有ready队列")
+        jobs = get_pending_jobs()
+        if not jobs:
+            log.info("  ⏳ 没有待发布的任务")
+        else:
+            log.info(f"📋 发现 {len(jobs)} 集待发布")
+            for job in jobs:
+                publish_episode(job)
         return
 
     while True:

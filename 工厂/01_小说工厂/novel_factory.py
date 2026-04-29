@@ -19,6 +19,7 @@ import time
 from pathlib import Path
 
 import requests
+import yaml
 
 # ── Paths ──
 FACTORY_DIR = Path(__file__).parent       # 工厂/小说工厂/
@@ -54,7 +55,7 @@ log = logging.getLogger(__name__)
 
 # ── DeepSeek API ──
 API_URL = "https://api.deepseek.com/v1/chat/completions"
-API_KEY = os.environ.get("DEEPSEEK_API_KEY", "sk-410ef5b3636e4b10bb2c6391f569c1ad")
+API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
 
 def load_config():
@@ -136,7 +137,7 @@ def load_config():
     return cfg
 
 
-def load_progress():
+def load_progress() -> dict:
     """加载进度"""
     if PROGRESS_PATH.exists():
         return json.loads(PROGRESS_PATH.read_text(encoding="utf-8"))
@@ -144,7 +145,10 @@ def load_progress():
 
 
 def save_progress(progress):
-    PROGRESS_PATH.write_text(json.dumps(progress, ensure_ascii=False, indent=2), encoding="utf-8")
+    """原子写入进度（临时文件 → rename）"""
+    tmp = PROGRESS_PATH.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(progress, ensure_ascii=False, indent=2), encoding="utf-8")
+    tmp.rename(PROGRESS_PATH)
 
 
 def build_system_prompt(cfg):
@@ -238,7 +242,7 @@ def call_deepseek(system, user, model="deepseek-reasoner", max_tokens=4096, temp
         except Exception as e:
             log.warning(f"  API call attempt {attempt+1} failed: {e}")
             if attempt < 2:
-                time.sleep(5 * (attempt + 1))
+                time.sleep(5 * (2 ** attempt))
     return None, {}
 
 
@@ -312,7 +316,6 @@ def run_ai_novel_generator(seed_path: str, start_chapter: int = 1, only: str = N
 
     # Engine 输出到 AI_NovelGenerator/novels/{novel_name}/chapters/chapter_N.txt
     # 识别 seed 中的 novel_name
-    import yaml
     try:
         with open(seed_path, "r", encoding="utf-8") as f:
             seed = yaml.safe_load(f)
