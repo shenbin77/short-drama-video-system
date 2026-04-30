@@ -15,6 +15,7 @@ import logging
 import os
 import subprocess
 import sys
+import signal
 import time
 from pathlib import Path
 
@@ -209,7 +210,7 @@ def build_chapter_prompt(cfg, chapter_num, prev_summary, arc_hint):
 def build_summary_prompt(chapter_text, chapter_num):
     """让 AI 总结本章，作为下章的前情"""
     cfg = load_config()
-    novel_name = cfg.get("novel_name", "禁辜录")
+    novel_name = cfg.get("novel_name", "禁蛊录")
     return (
         f"以下是《{novel_name}》第{chapter_num}章的正文。\n"
         f"请用100-150字总结本章的关键情节、角色状态变化、悬念，供下一章续写参考。\n"
@@ -338,9 +339,11 @@ def run_ai_novel_generator(seed_path: str, start_chapter: int = 1, only: str = N
             continue
         queue_file = QUEUE_DIR / f"chapter_{num:03d}.json"
         if queue_file.exists():
+            log.info(f"  ⏭️ 第{num}章 queue 已存在，跳过")
             continue
         text = txt_file.read_text(encoding="utf-8").strip()
         if not text:
+            log.warning(f"  ⚠️ 第{num}章文件内容为空，跳过")
             continue
         segments = [s.strip() for s in text.split("---") if s.strip()]
         queue_data = {
@@ -372,6 +375,9 @@ def save_chapter(chapter_num, text, summary, novel_name="禁蛊录"):
 
     # Queue (供下游分镜工厂消费)
     queue_file = QUEUE_DIR / f"chapter_{chapter_num:03d}.json"
+    if queue_file.exists():
+        log.warning(f"  ⚠️ queue 文件已存在，跳过覆盖: {queue_file.name}")
+        return
     queue_data = {
         "chapter_num": chapter_num,
         "text": text,
@@ -469,12 +475,24 @@ def main():
     # 守护模式
     if args.daemon:
         log.info("🔄 进入守护模式...")
-        while True:
+        shutdown_flag = False
+
+        def _handle_signal(sig, frame):
+            nonlocal shutdown_flag
+            log.info(f"🛑 收到信号 {sig}，正在优雅退出...")
+            shutdown_flag = True
+
+        signal.signal(signal.SIGINT, _handle_signal)
+        signal.signal(signal.SIGTERM, _handle_signal)
+
+        while not shutdown_flag:
             ready = len(list(QUEUE_DIR.glob("chapter_*.json")))
             if ready < args.min_queue:
                 log.info(f"  队列仅{ready}章，补充到{args.min_queue + 5}...")
                 next_ch = progress["last_chapter"] + 1
                 for i in range(args.min_queue + 5 - ready):
+                    if shutdown_flag:
+                        break
                     ch = next_ch + i
                     text, summary, usage = generate_chapter(cfg, ch, prev_summary, system_prompt)
                     if text:
@@ -487,7 +505,12 @@ def main():
                         time.sleep(2)
             else:
                 log.info(f"  队列{ready}章，充足，休息60s...")
-            time.sleep(60)
+            # 用短 sleep 分片替代长 sleep，以便及时响应信号
+            for _ in range(60):
+                if shutdown_flag:
+                    break
+                time.sleep(1)
+        log.info("👋 守护模式已退出")
 
 
 if __name__ == "__main__":

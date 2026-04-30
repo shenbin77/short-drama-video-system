@@ -21,6 +21,7 @@ import sys
 import time
 import base64
 import hashlib
+import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
@@ -52,7 +53,7 @@ log = logging.getLogger(__name__)
 
 # ── API Config ──
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
-DEEPSEEK_KEY = os.environ.get("DEEPSEEK_API_KEY", "sk-410ef5b3636e4b10bb2c6391f569c1ad")
+DEEPSEEK_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
 # ── Novel Name ──
 def _read_novel_name() -> str:
@@ -174,7 +175,6 @@ def generate_storyboard_outline(chapter_text, chapter_num, characters):
     result = deepseek_call(system, user, model="deepseek-chat", max_tokens=3000)
 
     # 清理 markdown code fence
-    import re
     result = re.sub(r'```(?:json)?\s*', '', result).strip().rstrip('`')
 
     try:
@@ -186,8 +186,6 @@ def generate_storyboard_outline(chapter_text, chapter_num, characters):
 
     log.error(f"  分镜大纲生成失败")
     return None
-
-
 
 
 SAFETY_REPLACEMENTS = {
