@@ -387,27 +387,27 @@ def generate_image(backend: str, prompt_zh: str, neg_prompt: str = "",
     ref_images_b64: list of data URI strings (角色参考图)
     返回: image bytes 或 None
 
-    Fallback 链: apimart_image2 → grsai_image2
+    Fallback 链: grsai_image2 → apimart_image2
     """
-    # 如果是 apimart_image2 或旧名称 gpt_image2，走 APIMart 主后端 + GRSAI fallback
-    need_apimart = backend in ("apimart_image2", "gpt_image2")
+    # 如果是 grsai_image2，走 GRSAI 主后端 + APIMart fallback
+    need_grsai = backend in ("grsai_image2", "gpt_image2")
 
-    if need_apimart:
-        result = apimart_image2(prompt_zh, ref_images_b64=ref_images_b64,
-                                neg_prompt=neg_prompt, width=width, height=height)
+    if need_grsai:
+        result = grsai_gpt_image2(prompt_zh, ref_images_b64=ref_images_b64,
+                                  neg_prompt=neg_prompt, width=width, height=height)
         if result is None:
-            logger.info("  🔄 [APIMart] 失败，自动切换 GRSAI 中转...")
-            result = grsai_gpt_image2(prompt_zh, ref_images_b64=ref_images_b64,
-                                      neg_prompt=neg_prompt, width=width, height=height)
+            logger.info("  🔄 [GRSAI] 失败，自动切换 APIMart 中转...")
+            result = apimart_image2(prompt_zh, ref_images_b64=ref_images_b64,
+                                    neg_prompt=neg_prompt, width=width, height=height)
         return result
 
-    elif backend == "grsai_image2":
-        return grsai_gpt_image2(prompt_zh, ref_images_b64=ref_images_b64,
-                                neg_prompt=neg_prompt, width=width, height=height)
-    else:
-        logger.warning(f"  ⚠️ 未知 image backend: {backend}，默认用 apimart_image2")
+    elif backend == "apimart_image2":
         return apimart_image2(prompt_zh, ref_images_b64=ref_images_b64,
                               neg_prompt=neg_prompt, width=width, height=height)
+    else:
+        logger.warning(f"  ⚠️ 未知 image backend: {backend}，默认用 grsai_image2")
+        return grsai_gpt_image2(prompt_zh, ref_images_b64=ref_images_b64,
+                                neg_prompt=neg_prompt, width=width, height=height)
 
 
 def estimate_cost(backend: str, n_images: int) -> str:
