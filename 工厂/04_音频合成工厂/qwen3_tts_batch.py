@@ -29,7 +29,14 @@ from pathlib import Path
 
 import numpy as np
 import soundfile as sf
-import torch
+
+# torch 延迟加载（移到 load_tts_model 内部，统一错误提示）
+_torch_available = False
+try:
+    import torch
+    _torch_available = True
+except ImportError:
+    _torch_available = False
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 LOG_DIR = SCRIPT_DIR / "logs"
