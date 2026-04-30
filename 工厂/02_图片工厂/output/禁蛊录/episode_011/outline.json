@@ -1,0 +1,101 @@
+[
+  {
+    "shot": 1,
+    "scene": "药庐废墟，夜晚，火光映照，雨水混血",
+    "action": "沈无渊跪在废墟中，左眼变黑，玄机老人尸体倒在一旁，他挣扎站起",
+    "characters": [
+      "沈无渊",
+      "玄机老人"
+    ],
+    "camera": "dolly_in",
+    "mood": "dark",
+    "image_prompt": "A ruined herbal hut at night, flames and rain mix, a young man with black left eye and bloodied hands kneels near an old man's corpse, moody atmospheric lighting, shadow and mist, ominous energy, cinematic composition",
+    "video_prompt": "Slow dolly in on沈无渊 as he struggles to stand, rain and fire flicker, his left eye darkens, camera focuses on his pain and determination",
+    "narration": "雨夜，药庐化为废墟。沈无渊跪在师父玄机老人的尸体旁，左眼被黑暗吞噬。月姬没有杀他，只留给他三天时间——三天后，要么被噬魂蛊吞噬，要么成为傀儡。"
+  },
+  {
+    "shot": 2,
+    "scene": "药庐外，火光中，苏晚晴冲入",
+    "action": "苏晚晴冲进火光，看到尸体后震惊，走到沈无渊面前检查伤势",
+    "characters": [
+      "苏晚晴",
+      "沈无渊"
+    ],
+    "camera": "pan_left",
+    "mood": "tense",
+    "image_prompt": "A woman with silver hair and fox mask rushes into fiery ruins, purple eyes wide with shock, she kneels beside a wounded man, intense standoff, dramatic energy burst, cinematic lighting",
+    "video_prompt": "Pan left to follow苏晚晴 as she runs into fire, camera stops on her face showing shock, then focuses on her checking沈无渊's pulse, tension builds",
+    "narration": "苏晚晴冲进火光，看到玄机老人的尸体，心一沉。沈无渊体内的噬魂蛊在暴动，他只剩三天。但他知道，师父留下了东西——一枚青铜钥匙，通往第七峰的禁地。"
+  },
+  {
+    "shot": 3,
+    "scene": "第七峰山脚，铁链封锁，符纸燃烧",
+    "action": "沈无渊用钥匙打开铁链锁，铁链滑落，符纸燃尽，山道飘来蛊药味",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "static",
+    "mood": "mysterious",
+    "image_prompt": "A mountain path blocked by iron chains covered in talismans, a young man inserts a bronze key into a lock, chains fall like dead snakes, talismans burn to ash, mist and shadow, mysterious energy, cinematic composition",
+    "video_prompt": "Static shot of沈无渊 unlocking chains, camera holds as chains drop and talismans ignite, then zoom in on his determined face as mist swirls",
+    "narration": "第七峰山脚，铁链封锁百年。沈无渊用青铜钥匙打开封印，铁链滑落，符纸燃尽。山道飘来蛊药的腥味，黑色液体蛇群从树皮裂缝中涌出，围成一个诡异的圆阵。"
+  },
+  {
+    "shot": 4,
+    "scene": "山道，黑色液体蛇群围成圆阵，苏晚晴施法防御",
+    "action": "蛇群围成圆阵，沈无渊左眼看到蛊经文字，蛇群炸开成毒雨，苏晚晴用符文屏障防御",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "tilt_up",
+    "mood": "tense",
+    "image_prompt": "A dark forest path, black liquid snakes form a circle around two figures, a woman with silver hair creates a purple符文 barrier, a man with black eye holds a short sword with green蛊火, dramatic confrontation, shadow and mist, cinematic lighting",
+    "video_prompt": "Tilt up from snake circle to沈无渊 and苏晚晴, camera captures the explosion of snakes into toxic rain, then focuses on the purple barrier as沈无渊 stabs the ground, revealing a hidden stairway",
+    "narration": "黑色液体蛇群炸开，化作漫天毒雨。沈无渊一剑刺入地面，引出隐藏的石阶。月姬曾在第七峰留下陷阱，但师父的钥匙，是唯一的生路。"
+  },
+  {
+    "shot": 5,
+    "scene": "地下洞穴，血莲蛊生长，藤蔓攻击",
+    "action": "沈无渊和苏晚晴进入洞穴，血莲藤蔓攻击，沈无渊被刺穿左臂，斩断藤蔓",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "dolly_out",
+    "mood": "dark",
+    "image_prompt": "A vast underground cave with stalactites dripping red liquid, a giant blood lotus in a pool surrounded by bones, a young man with black eye blocks a vine attack with his arm, blood splatters, moody atmospheric lighting, ominous energy, cinematic composition",
+    "video_prompt": "Dolly out from the blood lotus to reveal the cave, then focus on沈无渊 as vines strike, camera tracks his movement as he cuts the vine, his arm bleeding, tension peaks",
+    "narration": "洞穴深处，血莲蛊的藤蔓如闪电般袭来。沈无渊左臂被贯穿，血液被疯狂抽取。但他发现，血莲花心中藏着一颗黑色珠子——上面缠绕着他父亲的白发和血迹。"
+  },
+  {
+    "shot": 6,
+    "scene": "洞穴中，沈无渊握住黑色珠子，噬魂蛊暴动",
+    "action": "沈无渊认出父亲的血迹，左眼全黑，噬魂蛊暴动，他握住珠子，吸收力量",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "crane_up",
+    "mood": "epic",
+    "image_prompt": "A young man with fully black left eye holds a spiked black orb in his bloody hand, his face contorted in pain and determination, a woman watches in horror, cave walls shake, dramatic energy burst, epic lighting, cinematic composition",
+    "video_prompt": "Crane up from沈无渊's hand holding the orb to his face, camera captures his transformation as he absorbs power, the cave trembles, energy swirls around him, epic scale",
+    "narration": "沈无渊握住了那颗珠子，尖刺刺穿掌心，噬魂蛊疯狂吞噬其中的力量。他任由痛苦肆虐，因为他知道——只有这样，他才能变强，强到能杀月姬。"
+  },
+  {
+    "shot": 7,
+    "scene": "洞穴中，秦墨降临，对峙",
+    "action": "秦墨从裂缝降下，击飞珠子，拔剑对峙，沈无渊冷笑质问",
+    "characters": [
+      "沈无渊",
+      "苏晚晴",
+      "秦墨"
+    ],
+    "camera": "static",
+    "mood": "tense",
+    "image_prompt": "A silver-armored man descends through a crack in the cave ceiling, sword drawn, facing a wounded young man with black eye and a woman with silver hair, intense standoff, shadow and mist, dramatic confrontation, cinematic lighting",
+    "video_prompt": "Static shot of秦墨 landing, camera holds on his cold face and drawn sword, then cuts to沈无渊's defiant expression, tension between them builds, focus on the standoff",
+    "narration": "银光降临，执法堂首席秦墨拦在面前。他声称玄机老人私藏禁术、勾结魔道，该死。沈无渊冷笑——原来，月姬和执法堂，都在追查同一个秘密。"
+  }
+]

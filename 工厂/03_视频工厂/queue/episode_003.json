@@ -1,0 +1,117 @@
+{
+  "novel_name": "禁蛊录",
+  "episode_num": 3,
+  "chapter_num": 3,
+  "total_shots": 7,
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "荒镇外的暮色荒野，枯藤老树在暮色中扭曲成鬼影",
+      "action": "沈无渊单膝跪地，左肩伤口渗血，染红青衫破洞。陆九幽倒在不远处，黑袍撕开，背部露出三根银针。秦墨站在十丈外，银白执法袍猎猎作响，右手虚握凝聚透明灵剑。",
+      "characters": [
+        "沈无渊",
+        "陆九幽",
+        "秦墨"
+      ],
+      "camera": "dolly_in",
+      "mood": "tense",
+      "image_prompt": "A 3D Chinese anime scene at twilight in a desolate wilderness, twisted dead trees like ghostly silhouettes against a dark orange sky. Shen Wuyuan, a young man with messy black hair and blood-stained green robes, kneels on the ground with a wounded left shoulder. Lu Jiuyou lies nearby in torn black robes, three silver needles piercing his spine. Qin Mo, in gleaming white law-enforcement robes, stands ten meters away, forming a translucent spirit sword in his right hand. Moody atmospheric lighting, shadow and mist, ominous energy.",
+      "video_prompt": "Slow dolly-in towards Shen Wuyuan as he struggles to stand, camera pans slightly to show Lu Jiuyou's prone form and Qin Mo's imposing stance. Cinematic lighting shifts with the wind. Duration: 15 seconds.",
+      "narration": "荒镇外，暮色如血。沈无渊跪在枯藤之间，伤口渗血。陆九幽被银针封住蛊脉，倒在尘埃。秦墨的灵剑凝聚，月光下，他的脸一半明亮一半阴影。",
+      "image_path": null
+    },
+    {
+      "shot": 2,
+      "scene": "荒镇外的空地，月光洒下，秦墨脚下灵识搜索阵扩散光纹",
+      "action": "沈无渊站起身，左手抬起，五指张开，掌心血色蛊虫蠕动，触须伸展释放暗红雾气。蛊虫咬破他掌心皮肤钻入血管，剧痛涌遍全身。他看见记忆碎片：地牢里被关押的十二个人，宗主微笑看着执法队喂药丸，少年跪地求饶后剑光划过。",
+      "characters": [
+        "沈无渊",
+        "秦墨"
+      ],
+      "camera": "pan_left",
+      "mood": "dark",
+      "image_prompt": "A 3D Chinese anime scene at night under moonlight, Shen Wuyuan stands with left hand raised, palm glowing with a blood-red wriggling worm releasing dark mist. His eyes flash with pain and visions. Qin Mo stands opposite, a spirit search array glowing in concentric circles at his feet. Moody atmospheric lighting, shadow and mist, ominous energy. The ground is barren and rocky.",
+      "video_prompt": "Pan left from Shen Wuyuan's hand to his face showing a pained expression, then pan right to Qin Mo's array. Camera static as the worm burrows into Shen's skin and his body jerks. Duration: 15 seconds.",
+      "narration": "噬魂蛊启动，代价是记忆的碎片。沈无渊看见地牢里的无辜者，被诬陷为叛徒，成为宗主的养料。剑光划过，少年的头颅落地，他的瞳孔骤缩。",
+      "image_path": null
+    },
+    {
+      "shot": 3,
+      "scene": "荒镇外的空地，月光下",
+      "action": "秦墨脸色微变，灵剑暴涨三尺。沈无渊抬起头，左眼泛起血红光芒，皮肤下鼓起无数细小凸起，青筋暴起，伤口快速愈合。他低声说“就是现在”，左脚一蹬，身影瞬移消失。秦墨灵剑横斩，剑光化作弯月，沈无渊侧身闪过，左手直接抓住剑锋，血肉撕裂，骨脆响传出。沈无渊右手握拳打向秦墨胸口，秦墨步法变幻化作残影，拳头落空。",
+      "characters": [
+        "沈无渊",
+        "秦墨"
+      ],
+      "camera": "dolly_out",
+      "mood": "epic",
+      "image_prompt": "A 3D Chinese anime action scene at night, Shen Wuyuan with glowing red left eye and bulging veins under skin, wounds healing rapidly, in an intense martial arts stance. Qin Mo swings a luminous spirit sword in a crescent arc, Shen catches the blade with his bare hand, blood splattering. Both figures dynamic, spirit energy crackling around them. Moody atmospheric lighting, dramatic energy burst.",
+      "video_prompt": "Dolly out to capture the full confrontation, camera shakes slightly as Shen catches the sword. Fast motion as Shen punches and Qin dodges. Camera pans to follow the action. Duration: 15 seconds.",
+      "narration": "噬魂蛊强化了沈无渊的速度与力量。他瞬移而至，徒手抓住剑锋，血肉撕裂。秦墨步法变幻，化作残影。拳头落空，但沈无渊笑了——他等的就是这个。",
+      "image_path": null
+    },
+    {
+      "shot": 4,
+      "scene": "荒镇城墙前，月光下",
+      "action": "血色蛊虫从沈无渊手掌飞出，化作红雾扑向秦墨。秦墨左手掐诀，金光护体震散红雾，但蛊虫钻进他的左袖。秦墨身体一僵，左臂肌肉不受控制地颤抖。沈无渊说“七天”，转身向荒镇方向冲去。秦墨正要追，左臂蛊虫产卵，需要十个数时间排出。一支黑箭从暗处飞来，直指沈无渊后心，箭尖泛绿光淬毒。",
+      "characters": [
+        "沈无渊",
+        "秦墨"
+      ],
+      "camera": "static",
+      "mood": "tense",
+      "image_prompt": "A 3D Chinese anime scene at night before a ruined town wall, red mist from a blood worm disperses as Qin Mo's golden barrier flares. Shen Wuyuan turns and runs toward the town. A dark arrow with green-tipped poison flies from the shadows toward Shen's back. Qin Mo stands frozen, left arm trembling. Mood atmospheric lighting, shadow and mist, intense standoff.",
+      "video_prompt": "Static camera showing Shen turning and running, then a sudden arrow shot from off-screen. Camera stays on Qin Mo's strained face and trembling arm for a moment. Duration: 15 seconds.",
+      "narration": "蛊虫钻进秦墨衣袖产卵，虽能排出，但需要时间。沈无渊转身逃向荒镇，却见一支淬毒黑箭从暗处飞来，直指他的后心。",
+      "image_path": null
+    },
+    {
+      "shot": 5,
+      "scene": "荒镇破旧城墙上，月光下",
+      "action": "沈无渊右脚猛踏地面急转身，箭擦过左肩划出血痕，毒素入侵左臂开始麻木。他抬头看到城墙上站着一个白色宫装、长发如银瀑、半张狐狸面具的女子。女人说“救你，还是杀你？三枚灵石，选一个。”沈无渊问“你是谁”，女人答“算命先”。秦墨排出蛊虫，灵识锁定沈无渊，正要追来，女人左手一挥，金伞从袖中飞出旋转，月光化作万道金光拦住秦墨。",
+      "characters": [
+        "沈无渊",
+        "苏晚晴",
+        "秦墨"
+      ],
+      "camera": "tilt_up",
+      "mood": "mysterious",
+      "image_prompt": "A 3D Chinese anime scene at night on a ruined town wall, a woman in white palace robes with silver hair and a half fox mask stands on the wall. Shen Wuyuan below, wounded left arm numb from poison. Qin Mo is blocked by a golden umbrella spinning in midair, emitting beams of moonlight. Mysterious atmosphere, moody lighting with shadow and mist, dramatic confrontation.",
+      "video_prompt": "Tilt up from Shen Wuyuan's face to the mysterious woman on the wall, then pan down to show the golden umbrella blocking Qin Mo. Camera static as the woman speaks. Duration: 15 seconds.",
+      "narration": "城墙上，一个白衣银发的女子出现，半张狐狸面具遮住面容。她抛出金伞，拦住秦墨的去路。沈无渊盯着她，不知是救赎还是陷阱。",
+      "image_path": null
+    },
+    {
+      "shot": 6,
+      "scene": "荒镇破庙内，月光从破洞透入，油灯照亮半张脸",
+      "action": "苏晚晴用摄魂镜摄住秦墨一瞬，抓住沈无渊的肩逃入荒镇。两人翻过城墙，七拐八拐钻进一座破庙。苏晚晴点燃油灯，问沈无渊还活着。沈无渊靠在墙上，毒素已入侵右臂，肿胀发黑。苏晚晴问蛊虫能否解毒，沈无渊说需要一夜。苏晚晴告诉沈无渊关于噬魂蛊的真相：它是天衍宗宗主豢养三十年的禁蛊，用于突破元婴。她给他地图，指向昆墟山道，说需要找到五种禁蛊的蛊卵才能挣脱控制。",
+      "characters": [
+        "沈无渊",
+        "苏晚晴"
+      ],
+      "camera": "static",
+      "mood": "calm",
+      "image_prompt": "A 3D Chinese anime interior scene in a ruined temple at night, moonlight streaming through a hole in the roof. Shen Wuyuan leans against a wall, right arm swollen and blackened from poison. Su Wanqing, in white robes with silver hair and fox mask, lights an oil lamp, her half-face illuminated. A torn map lies on a stone table. Intimate atmosphere, moody lighting with shadow, mysterious energy.",
+      "video_prompt": "Static camera showing the temple interior, slow zoom on Shen's poisoned arm, then pull back to show Su Wanqing pointing at the map. Camera holds on their faces as they talk. Duration: 15 seconds.",
+      "narration": "破庙内，油灯照亮苏晚晴的半张脸。她说出真相：噬魂蛊是宗主豢养三十年的禁蛊，沈无渊只是养料。要挣脱控制，必须找到五种禁蛊的蛊卵，第一站是昆墟山道。",
+      "image_path": null
+    },
+    {
+      "shot": 7,
+      "scene": "荒镇外的荒原，月光下，远处昆墟山道形如骷髅",
+      "action": "苏晚晴送沈无渊出镇，通过地下水道来到荒原。沈无渊爬出水道，看到荒原尽头黑色山脉形如骷髅。苏晚晴说“你只有七天，找到凤凰蛊母虫炼化它，就能延长一个月寿命”，然后转身消失在黑暗中。沈无渊走向昆墟山道，走了两百步踩到一块硬物——一枚黑色令牌，刻着“蛊”字，多了一行小字：“噬魂蛊吞噬九位蛊师，可开启禁地之门。”在破庙中，苏晚晴站在祭坛前，与光门中的老人对话，说“让他变强，然后杀了他”。",
+      "characters": [
+        "沈无渊",
+        "苏晚晴"
+      ],
+      "camera": "crane_up",
+      "mood": "mysterious",
+      "image_prompt": "A 3D Chinese anime scene at night on a barren plain, Shen Wuyuan stands alone under moonlight, staring at a black skull-shaped mountain range in the distance. In his hand, a black token with the character 'gu' glows faintly. Su Wanqing's silhouette disappears into the darkness. In a separate vignette, Su stands before an altar in the ruined temple, a glowing portal with an old man's voice emanating. Mysterious atmosphere, moody lighting with shadow and mist, epic scale.",
+      "video_prompt": "Crane up from Shen Wuyuan's feet to show the vast plain and skull mountain, then pan to show Su Wanqing's back as she walks away. Quick cut to the temple interior with Su at the altar. Camera holds on the glowing token. Duration: 15 seconds.",
+      "narration": "荒原上，沈无渊走向昆墟山道。脚下踩到一枚令牌，上面刻着吞噬九位蛊师才能开启禁地之门。他不知道，苏晚晴的救赎背后，藏着更深的阴谋——让他变强，然后杀了他。",
+      "image_path": null
+    }
+  ],
+  "generated": false,
+  "generated_at": "2026-04-30 09:22:44"
+}

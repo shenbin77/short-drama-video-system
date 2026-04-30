@@ -1,0 +1,109 @@
+[
+  {
+    "shot": 1,
+    "scene": "密道暗光中，月姬白裙泛白，沈无渊挡在苏暮雪身前，左肩渗血，噬魂蛊在体内躁动。",
+    "action": "沈无渊护住苏暮雪，月姬温柔威胁交出蛊，陆九幽从阴影走出，金蛊纹路亮起，质问月姬三年前天府之事。",
+    "characters": [
+      "沈无渊",
+      "苏暮雪",
+      "月姬",
+      "陆九幽"
+    ],
+    "camera": "dolly_in",
+    "mood": "tense",
+    "image_prompt": "A dimly lit stone corridor with flickering torchlight. A woman in a white dress stands with an eerie smile, her silver eyes glowing faintly. A wounded man in dark robes shields a young woman behind him, blood seeping from his shoulder. Another figure in black robes emerges from shadows, golden runes glowing on his cloak. Moody atmospheric lighting, shadow and mist, ominous energy.",
+    "video_prompt": "Camera slowly zooms in on the wounded man as the woman in white speaks softly. The black-robed figure steps forward, his cloak rippling. The scene is tense with dramatic confrontation.",
+    "narration": "密道暗光中，月姬的白裙泛着惨白的光。沈无渊挡在苏暮雪身前，噬魂蛊在体内躁动。陆九幽从阴影里走出，质问月姬三年前天府之事。"
+  },
+  {
+    "shot": 2,
+    "scene": "月姬转头，银瞳收缩，陆九幽十指翻飞，七道金线射向月姬，在半空炸成金粉，被月姬无声消融。",
+    "action": "月姬冷笑回应，陆九幽释放金线攻击，金线被月姬化解，月姬嘲讽陆九幽的蛊是玩剩下的。",
+    "characters": [
+      "月姬",
+      "陆九幽"
+    ],
+    "camera": "static",
+    "mood": "mysterious",
+    "image_prompt": "Close-up of a woman with silver eyes and a cold smile, her white dress flowing. Golden threads burst into shimmering dust in mid-air, dissolving inches from her. A man in black robes with contorted face, his hands in a spell-casting gesture. Dark ceremonial hall with stone walls, spirit energy swirling, dramatic energy burst.",
+    "video_prompt": "Camera stays static as golden threads fly and explode into sparkles. The woman remains still, the dust vanishing around her. The man's frustration is visible as his attack fails.",
+    "narration": "月姬转头，银瞳收缩。陆九幽十指翻飞，七道金线直取月姬咽喉，却在半空炸成金粉，无声消融。月姬冷笑，你的蛊都是她当年玩剩下的。"
+  },
+  {
+    "shot": 3,
+    "scene": "沈无渊后背抵上石壁，噬魂蛊撕咬心脏，七天道限到，瞳孔涣散，苏暮雪抓住他手臂，他甩开她，手扣心口，血滴地面冒气泡。",
+    "action": "沈无渊痛苦挣扎，苏暮雪试图帮助，被甩开，他跪倒在地，身体抽搐，青筋暴起，蛊的笑声从体内传出。",
+    "characters": [
+      "沈无渊",
+      "苏暮雪",
+      "月姬",
+      "陆九幽"
+    ],
+    "camera": "tilt_down",
+    "mood": "dark",
+    "image_prompt": "A man in torn robes kneeling on a stone floor, clutching his chest in agony. Blood drips from his hand, hissing on the ground. A young woman reaches out to him, her face worried. Another woman in white watches with gleeful eyes, while a man in black looks horrified. Moody atmospheric lighting, shadow and mist, intense standoff.",
+    "video_prompt": "Camera tilts down from the man's face to his hand and the bubbling blood. He convulses on the ground, his body jerking. The woman in white smiles ominously.",
+    "narration": "沈无渊后背抵上石壁，噬魂蛊开始撕咬他的心脏。七天道限到了，瞳孔涣散，身体抽搐，青筋暴起。他听见了蛊的笑声从骨髓里渗出来。"
+  },
+  {
+    "shot": 4,
+    "scene": "苏暮雪划破手掌，血滴在沈无渊脸上被吸收，她按住他后颈，以血为引，沈无渊抬头，眼里只有暴戾，掐住她脖子按在墙上。",
+    "action": "苏暮雪用血压制蛊，沈无渊失控，掐住苏暮雪脖子，陆九幽试图阻止，手刀和血喷无效，月姬冷笑说他是蛊的容器。",
+    "characters": [
+      "苏暮雪",
+      "沈无渊",
+      "陆九幽",
+      "月姬"
+    ],
+    "camera": "dolly_in",
+    "mood": "tense",
+    "image_prompt": "A young woman with a cut palm presses blood onto a man's face, her expression desperate. The man grabs her throat, pinning her against a stone wall, his eyes wild and feral. Another man strikes his back, but he doesn't react. A woman in white watches with amusement. Dramatic energy burst, shadow and mist, intense martial arts stance.",
+    "video_prompt": "Camera zooms in on the woman's bloody hand touching the man's face, then pans to his hand choking her. The man's body is rigid as he is struck, showing no reaction.",
+    "narration": "苏暮雪划破手掌，血滴在沈无渊脸上瞬间被吸收。她以血为引，沈无渊抬头，眼里只有暴戾，一把掐住她的脖子按在墙上。陆九幽试图阻止却无效。"
+  },
+  {
+    "shot": 5,
+    "scene": "月姬走近蹲下，铁链碎裂声，六根银针刺进月姬穴位，苏暮雪手持匕首，眼神冰冷，说自己是天道衍生的复仇者。",
+    "action": "苏暮雪用银针偷袭月姬，月姬被制住，但很快震飞银针，用无形手掐住苏暮雪脖子悬空，苏暮雪艰难喊沈无渊快跑。",
+    "characters": [
+      "苏暮雪",
+      "月姬",
+      "沈无渊"
+    ],
+    "camera": "pan_left",
+    "mood": "epic",
+    "image_prompt": "A woman in white crouches on the ground, six silver needles protruding from her acupoints. A young woman stands over her with a dagger, her eyes cold and determined. The white-robed woman then stands, needles flying away, and levitates the young woman with an invisible force. Stone chamber with spirit energy swirling, dramatic confrontation, moody atmospheric lighting.",
+    "video_prompt": "Camera pans left from the silver needles being inserted to the young woman's determined face, then follows as the white-robed woman rises and uses telekinesis to lift her opponent.",
+    "narration": "月姬走近蹲下，铁链碎裂声响起。苏暮雪手持匕首，六根银针刺进月姬穴位。月姬震飞银针，用无形手掐住苏暮雪脖子悬空，苏暮雪艰难喊沈无渊快跑。"
+  },
+  {
+    "shot": 6,
+    "scene": "沈无渊意识被吞噬，看见三年前天府覆灭的画面，月姬捧着一个人头，长着他的脸，说用噬魂蛊让他多活了三年。",
+    "action": "沈无渊陷入幻觉，看见尸山血海中的自己，月姬的声音告诉他真相，他的意识被撕碎，看见无数尸体朝他笑。",
+    "characters": [
+      "沈无渊",
+      "月姬"
+    ],
+    "camera": "crane_up",
+    "mood": "dark",
+    "image_prompt": "A surreal vision: a man stands in a sea of corpses, blood pooling at his feet. A woman in white holds a severed head with the man's face, smiling gently. The man's own face appears on multiple bodies, laughing at him. Ominous energy, shadow and mist, moody atmospheric lighting, hallucinatory scene.",
+    "video_prompt": "Camera cranes up from the man's horrified face to reveal the vast field of bodies, then pans to the woman holding the head. The vision distorts as the man's consciousness fragments.",
+    "narration": "沈无渊的意识被吞噬，看见三年前天府覆灭那夜。月姬捧着一个人头，长着他的脸，说三年前他就该死，用噬魂蛊让他多活了三年。"
+  },
+  {
+    "shot": 7,
+    "scene": "沈无渊睁开眼睛，陆九幽灌他蛊王，两蛊在他体内厮杀，身体膨胀裂开，苏暮雪被掐着脖子艰难喊他撑住。",
+    "action": "沈无渊吞下蛊王，两股力量冲撞，身体裂开流血，月姬皱眉，陆九幽说死也比做傀儡强，沈无渊变成血人。",
+    "characters": [
+      "沈无渊",
+      "陆九幽",
+      "月姬",
+      "苏暮雪"
+    ],
+    "camera": "dolly_out",
+    "mood": "epic",
+    "image_prompt": "A blood-soaked man lies on a stone floor, his body swelling and cracking, blood spraying from fissures. Another man kneels beside him, forcing a dark substance into his mouth. A woman in white watches with a frown, while a young woman is held in mid-air by an invisible force, struggling to speak. Spirit power clash, dramatic energy burst, moody atmospheric lighting.",
+    "video_prompt": "Camera dollies out from the wounded man's face as he writhes in agony, zooming out to show the entire scene: the healer, the watching woman, and the suspended woman. The man's body pulsates with energy.",
+    "narration": "沈无渊睁开眼睛，陆九幽灌他蛊王，以毒攻毒。两蛊在他体内厮杀，身体膨胀裂开。月姬冷笑说他会爆体而亡，陆九幽说死也比做傀儡强。"
+  }
+]

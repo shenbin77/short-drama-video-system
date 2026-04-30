@@ -1,0 +1,101 @@
+[
+  {
+    "shot": 1,
+    "scene": "月光透窗的室内",
+    "action": "沈无渊推门而入，苏晚晴坐在桌边，面具搁在左手边，银发散落，紫瞳泛光。她手指轻敲桌面，铜钱在碗中旋转。沈无渊关上门，左眼闪过血色。",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "dolly_in",
+    "mood": "mysterious",
+    "image_prompt": "Moonlight streams through a lattice window, casting seven silver blade-like shadows on the floor. A man in dark green robes enters a dim room, night dew on his hem. A woman with long silver hair and purple eyes sits at a wooden table, a fox mask beside her. She taps three copper coins in a celadon bowl. The man's left eye glints with a faint red light. Atmospheric, moody lighting, shadow and mist, cinematic composition.",
+    "video_prompt": "Camera slowly dollies in as the man pushes the door open and steps inside. The woman's fingers tap rhythmically, coins spinning. He closes the door, turning to face her, his left eye flickering red. Subtle, tense movement.",
+    "narration": "月光如刀，切开了夜的寂静。沈无渊推门而入，青衫沾露。苏晚晴已在等他，铜钱在碗中旋转，像命运的轮盘。他的左眼，有东西在苏醒。"
+  },
+  {
+    "shot": 2,
+    "scene": "室内对峙",
+    "action": "苏晚晴起身走近，伸手要碰他脸颊。沈无渊侧身避开，扣住她手腕。苏晚晴笑说能读他父亲留下的信息。沈无渊盯着她，缓缓松手。",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "pan_right",
+    "mood": "tense",
+    "image_prompt": "A woman with silver hair and purple eyes stands close to a man in dark green robes, her hand reaching toward his face. He turns away, gripping her wrist. She smiles, her eyes reflecting his image. Dim room, moonlight casting shadows, intense standoff, spirit energy crackling faintly in the air. Cinematic, dramatic lighting.",
+    "video_prompt": "Camera pans right to follow the woman as she stands and steps forward. She reaches out, he deflects and grabs her wrist. She smiles, he releases her slowly. Tension in the air, subtle energy pulses.",
+    "narration": "她伸手，想触碰他眼里的秘密。他避开了，扣住她的手腕。苏晚晴笑了，说能读懂他父亲留下的信息。沈无渊松开手，眼中却藏着暗涌。"
+  },
+  {
+    "shot": 3,
+    "scene": "密室内记忆浮现",
+    "action": "苏晚晴取出白玉镜对准沈无渊左眼。白光炸裂，镜面浮现密室景象：石壁刻满血色符文，中央男人与沈无渊相似，嘴角带血，刻下遗言。",
+    "characters": [
+      "沈无渊",
+      "苏晚晴",
+      "沈父(记忆)"
+    ],
+    "camera": "tilt_down",
+    "mood": "dark",
+    "image_prompt": "A burst of white light illuminates a woman holding a small white jade mirror toward a man's left eye. In the mirror's reflection, a stone chamber appears: walls covered in blood-red runes, a man in his thirties kneeling on a central stone platform, blood at his mouth, eyes closed, carving words with his finger. Moody atmospheric lighting, shadow and mist, ominous energy, cinematic composition.",
+    "video_prompt": "Camera tilts down from the woman's face to the mirror as light explodes. The scene shifts to the stone chamber, the man carving words, then looking up with bloodshot eyes. Slow, dramatic reveal.",
+    "narration": "白光炸裂，白玉镜映出一间密室。石壁上血色符文密布，一个与沈无渊七分相似的男人跪在中央，嘴角带血，刻下最后的遗言。那是他父亲。"
+  },
+  {
+    "shot": 4,
+    "scene": "记忆中的父亲揭露真相",
+    "action": "画面中的男人抬头，眼中血丝密布。他说月姬是结发妻子，怀胎七月被种血咒，他炼制噬魂蛊，不料血咒与蛊融合，让她变成天衍宗豢养的蛊母。",
+    "characters": [
+      "沈父(记忆)"
+    ],
+    "camera": "static",
+    "mood": "tense",
+    "image_prompt": "A man with bloodshot eyes and a blood-stained mouth looks up from a stone platform in a dim chamber. His face is anguished, lit by flickering red runes on the walls. Shadowy mist swirls around him. Dramatic, intense, ominous energy, cinematic portrait lighting.",
+    "video_prompt": "Static camera on the man's face as he speaks, his expression shifting from pain to horror. Subtle energy pulses in the air, runes glow faintly. Emotional, tense.",
+    "narration": "父亲抬起头，眼中全是血丝。他说月姬是他的结发妻子，怀胎七月被种下血咒。他炼制的噬魂蛊，却让她变成了天衍宗豢养的蛊母。一切，都是阴谋。"
+  },
+  {
+    "shot": 5,
+    "scene": "镜面碎裂，真相揭晓",
+    "action": "镜面碎裂，苏晚晴后退，白玉镜裂成七片。她捂住嘴，指缝渗血。沈无渊面无表情，但握紧的拳头在发抖。他问如何杀蛊母，苏晚晴震惊。",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "dolly_out",
+    "mood": "dark",
+    "image_prompt": "A woman stumbles back, a shattered jade mirror falling to the floor in seven pieces. She covers her mouth, blood seeping between her fingers. A man stands rigid, fists clenched, face expressionless but eyes dark with emotion. Moonlight streams through a window, casting long shadows. Moody atmospheric lighting, shadow and mist, dramatic confrontation.",
+    "video_prompt": "Camera dollies out from the shattered mirror to reveal the woman retreating and the man standing still. She winces in pain, he trembles with suppressed rage. Slow, tense movement.",
+    "narration": "镜面碎裂，苏晚晴后退，指缝渗血。沈无渊面无表情，但紧握的拳头暴露了他的波澜。他问：怎么杀蛊母？那是他亲娘，却已不是人。"
+  },
+  {
+    "shot": 6,
+    "scene": "门外秦墨到来",
+    "action": "门外传来急促脚步声，沈无渊拔剑指向门缝。秦墨在门外说执法堂被血洗，月姬的人所为。他衣襟沾血，虎口开裂。沈无渊让他进来。",
+    "characters": [
+      "沈无渊",
+      "秦墨"
+    ],
+    "camera": "pan_left",
+    "mood": "tense",
+    "image_prompt": "A man in dark green robes stands by a door, sword drawn and pointed at the crack. Outside, another man in silver-white law enforcement robes stands, his clothes stained with blood, a deep gash on his right hand. Night wind blows, rustling their robes. Moody atmospheric lighting, shadow and mist, intense standoff, cinematic composition.",
+    "video_prompt": "Camera pans left from the sword to the door as footsteps approach. The door opens, revealing the bloodied man outside. He steps in, scanning the room. Tense, quick movement.",
+    "narration": "门外脚步声急促，沈无渊拔剑相向。秦墨站在门外，执法袍沾血，虎口开裂。执法堂被血洗了，月姬的人在东南密林布下血蛊阵。"
+  },
+  {
+    "shot": 7,
+    "scene": "苏晚晴揭露身份，沈无渊得知母亲记忆",
+    "action": "苏晚晴摘下狐狸面具，露出与月姬七分相似的脸。她说自己是月姬的妹妹月婵，来救姐姐。她给沈无渊血色玉佩，封印着母亲完整记忆和杀蛊母的方法。沈无渊握紧玉佩，记忆碎片炸开。",
+    "characters": [
+      "沈无渊",
+      "苏晚晴",
+      "月姬(记忆)"
+    ],
+    "camera": "crane_up",
+    "mood": "epic",
+    "image_prompt": "A woman with silver hair removes a fox mask, revealing a face strikingly similar to another woman. She holds a blood-red jade pendant, handing it to a man. In his hand, the pendant glows, and a fleeting memory image appears: a woman with white hair and silver eyes holding a baby, kneeling before three cloaked figures. Dramatic lighting, shadow and mist, spirit energy swirling, cinematic epic composition.",
+    "video_prompt": "Camera cranes up from the woman's face to the man as he receives the pendant. The pendant glows, and the scene briefly flashes with a memory. He clenches it, eyes widening. Epic, emotional reveal.",
+    "narration": "苏晚晴摘下狐狸面具，露出真容。她是月姬的妹妹月婵，来救自己的姐姐。血色玉佩里封印着母亲完整的记忆，还有杀死蛊母的方法。沈无渊握紧玉佩，记忆碎片在脑中炸开。"
+  }
+]

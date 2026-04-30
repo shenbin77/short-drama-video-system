@@ -1,0 +1,133 @@
+{
+  "novel_name": "禁蛊录",
+  "episode_num": 7,
+  "chapter_num": 7,
+  "total_shots": 7,
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "月光下的密林边缘，三人在狂奔",
+      "action": "沈无渊左臂青筋暴起，黑色纹路蔓延，陆九幽咳血，苏暮雪停下看向老槐树",
+      "characters": [
+        "沈无渊",
+        "陆九幽",
+        "苏暮雪"
+      ],
+      "camera": "dolly_in",
+      "mood": "tense",
+      "image_prompt": "Three figures running in moonlit forest at night, young man with dark veins crawling up his left arm, woman with silver hair and purple eyes stopping alertly, man in black robes coughing blood, ancient gnarled tree in background, moody atmospheric lighting with shadows and mist, cinematic composition with dramatic energy",
+      "video_prompt": "Camera dollies in towards the group as they run, focus on the dark veins spreading on the left arm, then pan to the silver-haired woman stopping abruptly, mist swirling around them",
+      "narration": "夜风裹着血腥味，三条人影在月光下狂奔。沈无渊左臂上青筋暴起，新融合的蛊王在体内翻涌，像一头困兽撕咬着他的经脉。",
+      "image_path": null
+    },
+    {
+      "shot": 2,
+      "scene": "老槐树下，玄机老人打盹，秦墨剑气逼近",
+      "action": "灰袍老人坐在树根上，嘴里叼着草根，睁开眼看向沈无渊",
+      "characters": [
+        "沈无渊",
+        "玄机老人",
+        "陆九幽",
+        "秦墨"
+      ],
+      "camera": "static",
+      "mood": "mysterious",
+      "image_prompt": "Ancient gnarled tree under moonlight, hunched old man in gray robe with bamboo staff sitting on roots, white beard and half-closed eyes, young man and woman standing nearby, distant sword aura approaching, moody atmospheric lighting with shadow and mist, mysterious energy in the air",
+      "video_prompt": "Static shot of the old man opening his eyes slowly, then cut to the young man's shocked expression as his body trembles, ambient mist drifting",
+      "narration": "老槐树下，一个佝偻的身影正坐在树根上打盹。灰布道袍，竹杖七道裂痕，白须垂到胸口。老人睁开眼，目光浑浊却带着一丝清明。",
+      "image_path": null
+    },
+    {
+      "shot": 3,
+      "scene": "竹林中，秦墨和执法堂弟子对峙",
+      "action": "秦墨落地，盯着沈无渊左臂纹路，执法堂副堂主认出噬魂蛊",
+      "characters": [
+        "秦墨",
+        "沈无渊",
+        "陆九幽",
+        "执法堂副堂主",
+        "执法堂弟子"
+      ],
+      "camera": "pan_right",
+      "mood": "dark",
+      "image_prompt": "Bamboo forest at night, dozens of silver-robed figures standing in formation, leader with sharp eyes staring at young man's arm with dark markings, tense standoff, moody atmospheric lighting with shadow and mist, ominous energy crackling, cinematic wide shot",
+      "video_prompt": "Camera pans right across the bamboo forest, revealing the ranks of silver-robed enforcers, then zooms in on the leader's intense gaze at the dark markings",
+      "narration": "秦墨落地无声，执法袍猎猎作响。他盯着沈无渊左臂蔓延的黑色纹路，眉头越皱越紧。那种纹路，二十年前他在禁地见过。",
+      "image_path": null
+    },
+    {
+      "shot": 4,
+      "scene": "竹林空地，玄机老人揭露噬魂蛊起源",
+      "action": "老人站起来，竹杖划出光圈保护三人，讲述噬魂蛊的炼制历史",
+      "characters": [
+        "玄机老人",
+        "沈无渊",
+        "陆九幽",
+        "苏暮雪",
+        "秦墨",
+        "执法堂弟子"
+      ],
+      "camera": "tilt_up",
+      "mood": "epic",
+      "image_prompt": "Old man standing with bamboo staff, dark gray energy circle surrounding three figures, enforcers pushed back, dramatic spiritual energy burst, cinematic composition with shadow and mist, epic mood with golden light emanating from staff",
+      "video_prompt": "Camera tilts up from the ground to show the old man rising, then pulls back to reveal the energy circle expanding, spiritual light swirling around them",
+      "narration": "玄机老人站起身，竹杖轻敲地面，一道暗灰色光圈将三人笼罩。他说，这噬魂蛊是他二十年前亲手封入禁地第三层的，那一年，三百名活人被用来炼制蛊种。",
+      "image_path": null
+    },
+    {
+      "shot": 5,
+      "scene": "竹林对峙，秦墨手抖，沈无渊承认打开封印",
+      "action": "秦墨后退，手按剑柄发抖，沈无渊平静承认打开禁地封印",
+      "characters": [
+        "秦墨",
+        "玄机老人",
+        "沈无渊",
+        "执法堂弟子"
+      ],
+      "camera": "dolly_out",
+      "mood": "tense",
+      "image_prompt": "Intense standoff in bamboo forest, silver-robed leader stepping back with trembling hand on sword, young man with calm expression, old man with bamboo staff, moody atmospheric lighting with shadow and mist, dramatic confrontation, cinematic close-up",
+      "video_prompt": "Camera dollies out slowly from the young man's face, revealing the leader's trembling hand and the old man's stern expression, mist swirling between them",
+      "narration": "秦墨后退半步，手按剑柄发抖。玄机老人说，不久前有人打开了禁地封印。沈无渊面容平静，承认是自己打开的。有人给了钥匙，说想报仇就去禁地第三层。",
+      "image_path": null
+    },
+    {
+      "shot": 6,
+      "scene": "月姬现身，上百黑袍人包围",
+      "action": "月姬白色宫装闪现，身后上百黑袍人现身，沈无渊意识模糊",
+      "characters": [
+        "月姬",
+        "玄机老人",
+        "沈无渊",
+        "苏暮雪",
+        "陆九幽",
+        "黑袍人"
+      ],
+      "camera": "crane_up",
+      "mood": "dark",
+      "image_prompt": "White-robed woman appearing under moonlight with cold smile, hundreds of black-robed figures emerging from shadows, young man clutching his head in pain, silver-haired woman grabbing his hand, old man with bamboo staff, moody atmospheric lighting with shadow and mist, dramatic energy burst, cinematic wide shot",
+      "video_prompt": "Camera cranes up from ground level to reveal the white-robed woman and the army of black-robed figures, then swoops down to the young man's agonized face as his consciousness fades",
+      "narration": "天空中一道银光劈下，月姬白色宫装在月光下闪现，身后上百名黑袍人现身。沈无渊体内蛊王疯狂嘶吼，意识开始模糊。他从一开始就是棋子。",
+      "image_path": null
+    },
+    {
+      "shot": 7,
+      "scene": "金光封印后，玄机老人指向天衍宗禁地",
+      "action": "玄机老人用竹杖砸地释放金光封印蛊王，指向远方孤峰",
+      "characters": [
+        "玄机老人",
+        "沈无渊",
+        "苏暮雪",
+        "月姬"
+      ],
+      "camera": "static",
+      "mood": "epic",
+      "image_prompt": "Golden light erupting from bamboo staff hitting ground, old man pointing at distant mountain peak under moonlight, young man opening eyes with golden glint, silver-haired woman with tears, white-robed woman with cold stare, epic cinematic composition with dramatic lighting and mist",
+      "video_prompt": "Static shot of golden energy erupting from the staff, then slow zoom to the distant mountain peak, final close-up on the young man's eyes glowing gold",
+      "narration": "金光冲天而起，玄机老人用竹杖封印了蛊王。他说，想要真正掌控它，必须去天衍宗禁地第七层。那里藏着噬魂蛊的起源，也藏着天衍宗最大的秘密。",
+      "image_path": null
+    }
+  ],
+  "generated": false,
+  "generated_at": "2026-04-30 09:24:31"
+}

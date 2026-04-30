@@ -1,0 +1,128 @@
+{
+  "episode_num": 1,
+  "chapter_num": 1,
+  "novel": "禁蛊录",
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "天衍宗演武场，晨雾缭绕，两千弟子列阵，铜鼎香火青烟直上",
+      "action": "沈无渊跪在青石台上，双手被麻绳反捆，膝盖浸透夜露，伤痕累累的衣衫随风飘动",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "执法弟子",
+        "围观弟子"
+      ],
+      "camera": "crane_up",
+      "mood": "tense",
+      "image_prompt": "A misty dawn martial arts training ground with 2000 disciples in formation, bronze incense burners emitting white smoke rising straight up in cold winter air, a young man with dark hair kneeling on a stone platform, hands tied behind back with rough rope, worn blue robe torn and stained, bruises visible on exposed skin, silver-robed judge standing on high platform, morning light casting long shadows, epic cinematic composition",
+      "video_prompt": "Camera slowly rises from ground level showing the kneeling figure, then pans up to reveal the vast crowd of disciples and the imposing judge on high platform, mist swirling in cold air",
+      "narration": "晨钟三响，天衍宗演武场两千弟子列阵如林。沈无渊跪在青石台上，双手被麻绳反捆，伤痕累累。执法堂首席秦墨的声音冰冷如铁，宣读着他的罪名。",
+      "image_path": "/mnt/e/视频项目/工厂/02_图片工厂/output/禁蛊录/episode_001/shot_01.jpg"
+    },
+    {
+      "shot": 2,
+      "scene": "演武场高台上，秦墨挥手示意，金色真气凝聚在执法弟子掌心",
+      "action": "执法弟子施展断脉掌，一掌拍向沈无渊后背，鲜血喷出，沈无渊身体剧烈颤抖",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "执法弟子"
+      ],
+      "camera": "dolly_in",
+      "mood": "dark",
+      "image_prompt": "A young man on his knees on stone platform, blood spraying from his mouth onto gray stones, a golden energy palm striking his back, his face contorted in pain but jaw clenched silently, silver-robed judge watching coldly from above, morning light filtering through mist, dramatic chiaroscuro lighting, cinematic wide shot",
+      "video_prompt": "Camera dollies in slowly as the palm strike lands, focusing on the blood spray and the man's pained expression, then holds on his face as he struggles not to scream",
+      "narration": "秦墨挥手，断脉掌落下。沈无渊口中鲜血喷涌，丹田碎裂，经脉寸断。他咬紧牙关，没有叫出声，三年的隐忍换来一场空。",
+      "image_path": "/mnt/e/视频项目/工厂/02_图片工厂/output/禁蛊录/episode_001/shot_02.jpg"
+    },
+    {
+      "shot": 3,
+      "scene": "后山地牢，潮湿阴暗，石墙渗水，火把昏黄，铁链锁住沈无渊四肢",
+      "action": "沈无渊躺在地上，体内噬魂蛊苏醒，他触摸左胸下方凸起的皮肤，蛊虫开始蠕动",
+      "characters": [
+        "沈无渊"
+      ],
+      "camera": "tilt_down",
+      "mood": "mysterious",
+      "image_prompt": "A dark underground stone dungeon with damp walls and flickering torchlight, a young man lying on wet stone floor, chains binding his wrists and ankles to the wall, his hand touching his chest near ribs, eyes half-closed in pain, a faint dark energy glowing under his skin, moody atmospheric lighting with deep shadows, cinematic composition",
+      "video_prompt": "Camera tilts down from the ceiling showing the chained figure, then slowly pushes in to show his hand touching his chest, the dark energy pulsing beneath his skin becomes visible",
+      "narration": "地牢深处，沈无渊被铁链锁住。体内封印三年的噬魂蛊苏醒，沿着碎裂的经脉爬向心脏。他苦笑着低语：吃吧，反正我也活不了多久了。",
+      "image_path": "/mnt/e/视频项目/工厂/02_图片工厂/output/禁蛊录/episode_001/shot_03.jpg"
+    },
+    {
+      "shot": 4,
+      "scene": "地牢牢房内，两个黑衣人闯入，提刀检查沈无渊",
+      "action": "沈无渊突然睁眼，瞳孔纯黑如黑洞，右手闪电般扣住一人喉咙，另一人拔刀砍来",
+      "characters": [
+        "沈无渊",
+        "黑衣人甲",
+        "黑衣人乙"
+      ],
+      "camera": "static",
+      "mood": "tense",
+      "image_prompt": "Dark dungeon cell with a young man suddenly opening his eyes, pupils completely black like voids, his hand gripping a masked intruder's throat, another masked figure drawing a short blade, torchlight casting dramatic shadows on stone walls, intense standoff atmosphere, cinematic medium shot with high contrast lighting",
+      "video_prompt": "Static camera captures the sudden movement as the kneeling figure springs into action, fast motion as he disables one attacker and dodges the blade of the second",
+      "narration": "两个黑衣人闯入牢房，伸手探他鼻息。沈无渊猛然睁眼，瞳孔漆黑如深渊，右手如闪电扣住一人咽喉，另一人拔刀砍来。",
+      "image_path": "/mnt/e/视频项目/工厂/02_图片工厂/output/禁蛊录/episode_001/shot_04.jpg"
+    },
+    {
+      "shot": 5,
+      "scene": "地牢牢房内，沈无渊与黑衣人搏斗，手掌刺穿对方掌心",
+      "action": "沈无渊手指刺穿黑衣人手掌，眼中浮现暗红色光晕，开始吞噬对方精血，黑衣人干瘪倒下",
+      "characters": [
+        "沈无渊",
+        "黑衣人乙"
+      ],
+      "camera": "dolly_in",
+      "mood": "dark",
+      "image_prompt": "Close-up of a young man's hand piercing through another's palm, blood dripping, his eyes glowing with dark red energy, the attacker's face contorting in horror as his skin begins to wither and age rapidly, torchlight casting eerie shadows, intense dramatic moment with swirling dark energy around them, cinematic composition",
+      "video_prompt": "Camera slowly dollies in on the hands and faces, capturing the moment of energy transfer as the attacker visibly ages and collapses, dark energy swirls around them",
+      "narration": "沈无渊手指刺穿对方手掌，眼中浮现暗红光晕。蛊虫开始吞噬精血，黑衣人瞬间干瘪衰老，像一截枯木倒在地上。",
+      "image_path": "/mnt/e/视频项目/工厂/02_图片工厂/output/禁蛊录/episode_001/shot_05.jpg"
+    },
+    {
+      "shot": 6,
+      "scene": "地牢走廊，昏暗火光，沈无渊握短刀前行，血迹滴落",
+      "action": "沈无渊走出牢房，在走廊中前进，前方传来众多脚步声，秦墨率黑衣人出现",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "十多个黑衣人"
+      ],
+      "camera": "pan_left",
+      "mood": "epic",
+      "image_prompt": "Long dark dungeon corridor with flickering torches on walls, a young man with bloodied short sword walking forward, blood dripping from blade, in the distance a silver-robed judge leads a group of masked figures emerging from shadows, dramatic lighting with deep contrasts, epic cinematic wide shot with strong composition",
+      "video_prompt": "Camera pans left following the young man as he walks, then reveals the opposing force emerging from the darkness, creating a dramatic confrontation composition",
+      "narration": "沈无渊握紧短刀，沿着地牢走廊前行。不到百步，前方火光一闪，秦墨率十多个黑衣人鱼贯而出，将他堵在狭窄的通道中。",
+      "image_path": "/mnt/e/视频项目/工厂/02_图片工厂/output/禁蛊录/episode_001/shot_06.jpg"
+    },
+    {
+      "shot": 7,
+      "scene": "地牢走廊尽头，沈无渊与秦墨对峙",
+      "action": "沈无渊缓缓抬起短刀对准自己，嘴角勾起嘲讽的弧度，与秦墨对视",
+      "characters": [
+        "沈无渊",
+        "秦墨"
+      ],
+      "camera": "static",
+      "mood": "tense",
+      "image_prompt": "Two figures facing each other in a dark dungeon corridor, a young man with dark hair and a scar across his eye holding a short blade to himself, a silver-robed judge standing calmly with hands behind back, torchlight between them casting long shadows, intense standoff atmosphere, dramatic cinematic composition with strong vertical lines",
+      "video_prompt": "Static camera captures the intense standoff, both figures motionless, the young man slowly raises the blade toward himself with a bitter smile, tension palpable in the air",
+      "narration": "秦墨背着手，目光冰冷：你太强了，又太不听话。沈无渊嘴角勾起嘲讽的弧度，缓缓抬起短刀，对准了自己。",
+      "image_path": "/mnt/e/视频项目/工厂/02_图片工厂/output/禁蛊录/episode_001/shot_07.jpg"
+    }
+  ],
+  "shot_count": 7,
+  "narration_texts": [
+    "晨钟三响，天衍宗演武场两千弟子列阵如林。沈无渊跪在青石台上，双手被麻绳反捆，伤痕累累。执法堂首席秦墨的声音冰冷如铁，宣读着他的罪名。",
+    "秦墨挥手，断脉掌落下。沈无渊口中鲜血喷涌，丹田碎裂，经脉寸断。他咬紧牙关，没有叫出声，三年的隐忍换来一场空。",
+    "地牢深处，沈无渊被铁链锁住。体内封印三年的噬魂蛊苏醒，沿着碎裂的经脉爬向心脏。他苦笑着低语：吃吧，反正我也活不了多久了。",
+    "两个黑衣人闯入牢房，伸手探他鼻息。沈无渊猛然睁眼，瞳孔漆黑如深渊，右手如闪电扣住一人咽喉，另一人拔刀砍来。",
+    "沈无渊手指刺穿对方手掌，眼中浮现暗红光晕。蛊虫开始吞噬精血，黑衣人瞬间干瘪衰老，像一截枯木倒在地上。",
+    "沈无渊握紧短刀，沿着地牢走廊前行。不到百步，前方火光一闪，秦墨率十多个黑衣人鱼贯而出，将他堵在狭窄的通道中。",
+    "秦墨背着手，目光冰冷：你太强了，又太不听话。沈无渊嘴角勾起嘲讽的弧度，缓缓抬起短刀，对准了自己。"
+  ],
+  "created_at": "2026-04-30 08:58:01",
+  "status": "ready"
+}

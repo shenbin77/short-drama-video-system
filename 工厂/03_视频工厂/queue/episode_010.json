@@ -1,0 +1,116 @@
+{
+  "novel_name": "禁蛊录",
+  "episode_num": 10,
+  "chapter_num": 10,
+  "total_shots": 7,
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "药庐内，深夜，烛火摇曳",
+      "action": "沈无渊盘膝坐于药鼎前，黑色血线从手腕蔓延至脖颈，蛊毒与剑气撕扯经脉，大汗淋漓。玄机老人推门而入，端着一碗墨绿色药汤。",
+      "characters": [
+        "沈无渊",
+        "玄机老人"
+      ],
+      "camera": "dolly_in",
+      "mood": "tense",
+      "image_prompt": "A dimly lit herbal cottage at night, candlelight flickering. A young man with pale skin, dark hair, and black bloodlines crawling from his left wrist to his neck sits cross-legged before a bronze medicine cauldron, sweat dripping. An elderly man in grey robes pushes open a wooden door, holding a bowl of dark green herbal liquid. Mood: intense, shadowy, atmospheric lighting with dust motes in the air.",
+      "video_prompt": "Camera slowly dollies toward the young man as he breathes heavily, black veins pulsing. The old man enters frame, footsteps echoing. Slow, tense movement with flickering candlelight and drifting dust.",
+      "narration": "夜露凝霜，药庐内烛火摇曳。沈无渊盘膝坐在药鼎前，体内蛊毒与剑气撕扯经脉，每一次呼吸都像被千刀万剐。玄机老人推门而入，端着一碗墨绿色的药汤，脚步轻缓却带着奇异的节奏。",
+      "image_path": null
+    },
+    {
+      "shot": 2,
+      "scene": "药庐内，月光从门缝涌入",
+      "action": "玄机老人取出泛黄玉简，告知三件事。话未说完，木门无风自动推开一半，月光涌入，白色蝴蝶飞入，洒下光粉。玄机老人脸色大变，挡在沈无渊面前。",
+      "characters": [
+        "沈无渊",
+        "玄机老人"
+      ],
+      "camera": "pan_right",
+      "mood": "mysterious",
+      "image_prompt": "Inside a herbal cottage at night, moonlight pouring through a half-open wooden door, creating a silver-white path on the floor. A white butterfly flutters in, scattering fine glowing dust. An elderly man in grey robes stands protectively in front of a young man with black bloodlines, his face alarmed. The atmosphere is tense and mystical, with shadow and light interplay.",
+      "video_prompt": "Camera pans right from the elderly man to the door as it slowly creaks open. The white butterfly enters, wings shimmering. The elderly man turns sharply, raising his staff. Slow, suspenseful motion with moonlight glowing brighter.",
+      "narration": "玄机老人取出泛黄的玉简，正要说出三件要事，木门忽然无风自开。月光如银瀑涌入，一只白色蝴蝶翩翩飞入，洒下细碎光粉。玄机老人脸色大变，猛地转身挡在沈无渊面前。",
+      "image_path": null
+    },
+    {
+      "shot": 3,
+      "scene": "药庐门口，月光笼罩",
+      "action": "月姬现身，白色宫装，银发垂腰，银白无瞳眼眸。她抬手一指，银色光线斩向玄机老人，击碎八卦盾。玄机老人吐血后退。",
+      "characters": [
+        "月姬",
+        "玄机老人",
+        "沈无渊"
+      ],
+      "camera": "static",
+      "mood": "epic",
+      "image_prompt": "A stunning woman in white palace robes stands at the threshold of a cottage, moonlight cascading around her like a silver waterfall. Long silver hair flows to her waist, her eyes pure silver without pupils, glowing with inner light. She raises a finger, releasing a silver beam that shatters a glowing green Bagua shield. An elderly man staggers backward, blood at his lips. The scene is dramatic, with shadow and luminous energy.",
+      "video_prompt": "Static wide shot as the woman enters frame. She lifts her hand gracefully, and a silver energy beam shoots forward. The shield cracks and explodes into light particles. The elderly man recoils. Epic, slow-motion energy burst.",
+      "narration": "月姬现身，白色宫装，银发如瀑，银白无瞳眼眸流转着星辰般的光芒。她轻轻抬手，一道银色光线破空而出，瞬间击碎玄机老人的八卦盾。玄机老人吐血后退，竹杖碎裂。",
+      "image_path": null
+    },
+    {
+      "shot": 4,
+      "scene": "药庐内，月姬逼近沈无渊",
+      "action": "月姬缓步走向沈无渊，身后凝结出多层蝶翼光影。沈无渊身体僵硬无法动弹。月姬抚摸他的脸，声称一切是她计划，七十年换了三十六人。沈无渊左眼变黑，蛊王即将失控。",
+      "characters": [
+        "月姬",
+        "沈无渊"
+      ],
+      "camera": "dolly_in",
+      "mood": "dark",
+      "image_prompt": "Close-up of a silver-eyed woman in white robes leaning toward a young man with black bloodlines on his neck. Her hand gently touches his cheek, her expression both tender and menacing. Behind her, layers of butterfly-wing light projections shimmer. The young man's left eye turns completely black with red swirls, his body tense. Mood: ominous, with shadow and silver light contrast.",
+      "video_prompt": "Camera slowly dollies in on the woman's face as she speaks softly, then shifts to the young man's eye turning black. Her hand caresses his cheek. Tense, slow motion with energy pulsing in his eye.",
+      "narration": "月姬缓步逼近，身后凝结出层层蝶翼光影，美得惊心动魄。她抚过沈无渊的脸，声称这一切都是她的计划，七十年换了三十六人。沈无渊的左眼渐渐变黑，蛊王在愤怒中成长，即将失控。",
+      "image_path": null
+    },
+    {
+      "shot": 5,
+      "scene": "药庐内，玄机老人倒下",
+      "action": "月姬让玄机老人破封印。另一个月姬从玄机老人背后浮现，带着血丝碎肉破体而出。玄机老人软倒在地。月姬以月光凝聚银白长剑，指向沈无渊额头，给出两个选择。",
+      "characters": [
+        "月姬",
+        "玄机老人",
+        "沈无渊"
+      ],
+      "camera": "tilt_down",
+      "mood": "tense",
+      "image_prompt": "A dramatic scene in a ruined cottage: an elderly man collapses to the ground, his staff broken into pieces. A ghostly white figure emerges from his back, like a butterfly breaking from a cocoon, with threads of blood and tissue. Another woman in white stands nearby, holding a silver longsword made of moonlight, pointed at a young man's forehead. Shadows and silver light create a tense, supernatural atmosphere.",
+      "video_prompt": "Camera tilts down from the woman's face to the elderly man falling. The ghostly figure rises from his back, slow and eerie. The woman then raises the moon-sword, pointing it at the young man. Intense, slow motion with energy particles.",
+      "narration": "月姬一声令下，玄机老人体内的东西破体而出，如同破茧的蝴蝶。老人软倒在地，再无声息。月姬以月光凝聚银白长剑，指向沈无渊额头，给出了两个选择:交出噬魂蛊成为傀儡，或者死。",
+      "image_path": null
+    },
+    {
+      "shot": 6,
+      "scene": "药庐废墟，月光与黑雾交织",
+      "action": "沈无渊站起身，右手凝聚黑色雾气，向月姬头顶笼罩。月姬以银白蝴蝶相迎。能量爆炸，药庐崩塌。沈无渊被震飞，撞断树木，重伤倒地。月姬转身离去，留下三天之约。",
+      "characters": [
+        "沈无渊",
+        "月姬"
+      ],
+      "camera": "crane_up",
+      "mood": "epic",
+      "image_prompt": "An explosive moment in a ruined cottage: a young man with black energy swirling around his right hand stands defiantly before a silver-eyed woman. Black mist and silver light clash in midair, creating a shockwave that shatters the wooden structure. Moonlight and shadow intertwine. The young man is thrown backward, crashing through trees. The woman stands calmly in the debris, her robes flowing. Epic, dramatic lighting with energy bursts.",
+      "video_prompt": "Camera cranes up as black mist and silver butterfly collide, creating an explosion. The cottage collapses, debris flying. The young man is flung backward in slow motion, trees breaking. The woman turns and walks away calmly. Epic, slow-motion chaos.",
+      "narration": "沈无渊猛然起身，右手凝聚黑色雾气，向月姬头顶笼罩。月姬以银白蝴蝶相迎，月光与黑雾交织，药庐瞬间崩塌。沈无渊被震飞，重伤倒地。月姬转身离去，留下三天之约，声称要告诉他父亲的死因和银发紫瞳少女的下落。",
+      "image_path": null
+    },
+    {
+      "shot": 7,
+      "scene": "药庐废墟，清晨",
+      "action": "沈无渊醒来，体内剑气消失，蛊毒仍在。玉简在掌心，第一道裂痕上刻着'蝶'字。他握紧玉简，眼神锐利，走向晨光中的天衍宗山门。一只白色蝴蝶落在碎裂竹杖旁。",
+      "characters": [
+        "沈无渊"
+      ],
+      "camera": "pan_left",
+      "mood": "calm",
+      "image_prompt": "Dawn over a ruined cottage. A young man with black bloodlines on his neck sits up among debris, holding a jade slip with three cracks. The first crack is inscribed with the character 'butterfly'. His eyes are sharp and determined. Morning light filters through mist. A broken bamboo staff lies nearby, and a single white butterfly rests on the mud. Atmosphere: calm yet resolute, with warm golden light and shadow.",
+      "video_prompt": "Camera pans left from the broken staff to the young man sitting up. He looks at the jade slip in his hand, then stands slowly. He walks toward the distant mountain gate in soft morning light. The butterfly lifts off. Calm, hopeful motion with gentle light.",
+      "narration": "清晨，沈无渊从废墟中醒来。体内的剑气已消失，蛊毒仍在。玉简上三道裂痕清晰可见，第一道刻着'蝶'字。他握紧玉简，眼神锐利如刀。禁地第十三层，父亲的死，月姬的阴谋——他要亲自找到答案。",
+      "image_path": null
+    }
+  ],
+  "generated": false,
+  "generated_at": "2026-04-30 09:25:52"
+}

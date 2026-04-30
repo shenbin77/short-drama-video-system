@@ -1,0 +1,97 @@
+[
+  {
+    "shot": 1,
+    "scene": "地下墓室，黑暗笼罩，石壁刻满咒文",
+    "action": "沈无渊捏碎玉简，裂纹炸开，金色光芒从裂纹中渗出，照亮整个墓室",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "dolly_in",
+    "mood": "mysterious",
+    "image_prompt": "A dark underground tomb chamber, stone walls covered in ancient runes, a young man in dark robes stands center, crushing a jade slip in his hand, cracks spreading like spiderwebs, radiating pale golden light that illuminates the dusty space, shadows dance on the walls, moody atmospheric lighting, epic cinematic composition",
+    "video_prompt": "Close-up of jade slip shattering in hand, golden light bursts outward, camera slowly moves in on the glowing cracks, dust particles float in the air",
+    "narration": "玉简碎裂的瞬间，金色裂纹如活物般蔓延，照亮了整个地下墓室。沈无渊感觉到噬魂蛊在体内躁动，仿佛嗅到了危险的气息。"
+  },
+  {
+    "shot": 2,
+    "scene": "墓室中，沈无渊与玄机老人对峙",
+    "action": "沈无渊转身面对玄机老人，后者从黑暗中走出，竹杖点地",
+    "characters": [
+      "沈无渊",
+      "玄机老人"
+    ],
+    "camera": "static",
+    "mood": "tense",
+    "image_prompt": "A tense standoff in a dimly lit tomb, a young man in dark robes faces an ancient, gaunt old man in gray robes, the old man's face is skeletal with deep wrinkles and hollow black eyes, he leans on a bamboo staff with seven cracks glowing eerily, shadows cast by golden light, dramatic shadows, mysterious atmosphere",
+    "video_prompt": "Camera holds steady as old man emerges from darkness, bamboo staff taps stone floor, young man's hand tightens on hidden needle, tension in the air",
+    "narration": "玄机老人从黑暗中现身，枯瘦如柴，眼珠发黑。他告诉沈无渊，玉简里藏着的，是他父亲最后的遗嘱。"
+  },
+  {
+    "shot": 3,
+    "scene": "墓室中，金色纹路在空中形成地图",
+    "action": "玉简碎片重组为立体地图，沈无渊左眼灼痛，指缝渗血",
+    "characters": [
+      "沈无渊",
+      "玄机老人"
+    ],
+    "camera": "dolly_out",
+    "mood": "epic",
+    "image_prompt": "A young man in dark robes holds his left eye, blood seeping through fingers, before him floating golden lines form a 3D map in the air, connecting seven points, ancient runes glow on stone walls, dramatic lighting from the golden map, shadows and mist swirl, epic cinematic shot",
+    "video_prompt": "Golden lines swirl and form a glowing map, camera slowly pulls back as young man staggers in pain, blood drips from his eye, map pulses with light",
+    "narration": "地图在空中浮现，连接着天衍宗内七个地点。沈无渊左眼剧痛，父亲留在瞳仁里的禁制正在激活。"
+  },
+  {
+    "shot": 4,
+    "scene": "墓室中，金色纹路融入沈无渊右手",
+    "action": "金色纹路像流水般涌进沈无渊掌心，蛊纹从手背蔓延至肩膀，变成暗金色",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "pan_right",
+    "mood": "dark",
+    "image_prompt": "Close-up of a young man's right arm, golden light flowing like liquid into his palm, intricate dark golden runes spreading from hand to shoulder under his skin, veins pulsing with energy, shadowy background with moody atmospheric lighting, intense expression of pain and determination on his face",
+    "video_prompt": "Camera pans right along arm as golden light flows in, runes crawl and spread like living snakes, young man grits teeth in pain, energy pulses",
+    "narration": "玉简里的咒文涌入体内，噬魂蛊被彻底驯服。沈无渊终于掌控了这股力量，这是父亲花费十年修改过的完整咒文。"
+  },
+  {
+    "shot": 5,
+    "scene": "天衍宗执法堂，秦墨在窗前",
+    "action": "秦墨看着密信，下令全员戒备，取剑准备",
+    "characters": [
+      "秦墨"
+    ],
+    "camera": "tilt_up",
+    "mood": "tense",
+    "image_prompt": "A grand hall with carved pillars, a young man in white and blue robes sits in a carved chair, a letter on the table reads 'traitor', he stands and walks to a window, moonlight streams in, he takes a sword with rune-carved scabbard from the wall, his reflection shows cold determination, dramatic shadows, epic cinematic lighting",
+    "video_prompt": "Camera tilts up from letter to man's face, he turns and walks to window, then to wall to take sword, moonlight illuminates his stern expression",
+    "narration": "秦墨接到宗主密令，沈无渊被定为叛徒。他取剑下令执法堂戒备，准备迎接这个曾经的师弟。"
+  },
+  {
+    "shot": 6,
+    "scene": "天衍宗山门前，月光下",
+    "action": "沈无渊抬头看执法堂旗幡，秦墨拔剑质问，二人对峙",
+    "characters": [
+      "沈无渊",
+      "秦墨"
+    ],
+    "camera": "static",
+    "mood": "epic",
+    "image_prompt": "Moonlit mountain gate of a grand sect, a young man in dark robes stands below, his left eye glowing faint silver, above on the gate stands another young man in white robes holding a drawn sword, behind him rows of disciples in formation, moonlight casts long shadows, mist swirls around, epic cinematic composition, dramatic lighting",
+    "video_prompt": "Camera holds wide shot as two men face off, wind blows robes and banners, tension builds, silver light flickers in one man's eye",
+    "narration": "山门前，秦墨拔剑质问沈无渊。沈无渊反问他知道多少关于月姬的事，秦墨瞳孔骤缩，剑柄松了。"
+  },
+  {
+    "shot": 7,
+    "scene": "沈无渊住处，灯下",
+    "action": "苏晚晴告诉沈无渊月姬的算计，沈无渊看着手背蛊纹，左眼银光闪烁",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "dolly_in",
+    "mood": "dark",
+    "image_prompt": "Dimly lit room with a single oil lamp, a young man in dark robes sits at a table, a woman with half fox mask and silver hair stands opposite, shadows dance on walls, close-up of young man's hand with dark golden runes pulsing under skin, his left eye glows silver like a sword about to strike, moody atmospheric lighting, intense dramatic moment",
+    "video_prompt": "Camera slowly moves in on young man's face, his eye glows silver, runes on hand pulse, woman's voice fades as he stands, moonlight breaks through clouds, final shot of his determined expression",
+    "narration": "苏晚晴带来月姬的口信，沈无渊终于明白，月姬算计二十年，就是为了他体内的噬魂蛊。但他已不是当年的沈无渊，左眼中银光闪烁，如出鞘的剑。"
+  }
+]

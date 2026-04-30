@@ -1,0 +1,100 @@
+[
+  {
+    "shot": 1,
+    "scene": "天衍宗地牢门口，月光下乱葬岗",
+    "action": "沈无渊踹开地牢铁门，黑袍沾血，指尖蛊虫纹路从墨绿变淡金，他抹去嘴角血迹，看清掌心淤黑",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "dolly_in",
+    "mood": "dark",
+    "image_prompt": "A young man in dark robes stands at the entrance of a stone dungeon, moonlight illuminating a desolate graveyard behind him. His fingers glow with faint golden runes, blood on his lips, palm dark with ominous energy. Atmospheric lighting, shadows and mist, cinematic composition, 3D anime style, PG-13.",
+    "video_prompt": "Camera slowly zooms in on the man's face as he wipes blood from his mouth, then pans down to his glowing hand. Subtle mist drifts in the background.",
+    "narration": "沈无渊踹开地牢铁门，月光照亮了乱葬岗。他指尖的蛊虫纹路正在消退，掌心却浮现出淤黑——那是噬魂蛊反噬的征兆。最多七天，蛊虫便会吞噬他的内脏。他必须逃出天衍宗。"
+  },
+  {
+    "shot": 2,
+    "scene": "天衍宗后山，石墙旁",
+    "action": "沈无渊贴着岩壁绕过后山哨塔，观察百米外的高耸石墙，突然停步，察觉钟声异常后压低身形躲入草丛",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "pan_right",
+    "mood": "tense",
+    "image_prompt": "A dark-haired man in black robes presses against a rocky cliff face, moonlight casting long shadows. In the distance, a tall stone wall looms under a night sky. He crouches low, disappearing into tall grass. Mysterious energy swirls in the air, moody lighting, 3D anime style, PG-13.",
+    "video_prompt": "Camera pans right following the man as he moves along the cliff, then tilts down as he crouches into the grass. Subtle wind effects on grass.",
+    "narration": "三更天的钟声从山门传来，沈无渊贴着岩壁绕过后山哨塔。护山大阵每夜子时会有一刻钟的间隙，那是唯一的出路。但第三声钟响后，更鼓声消失了——他被发现了。"
+  },
+  {
+    "shot": 3,
+    "scene": "乱葬岗草丛中",
+    "action": "秦墨从天而降，银白执法袍翻飞，手持青锋剑，冷声让沈无渊滚出来，随后一剑刺向草丛，沈无渊被迫跃出",
+    "characters": [
+      "秦墨",
+      "沈无渊"
+    ],
+    "camera": "crane_up",
+    "mood": "tense",
+    "image_prompt": "A silver-robed warrior descends from the sky, sword in hand, landing in a moonlit graveyard. His eyes are sharp and cold. A dark figure leaps from the grass, mid-air, facing the warrior. Dramatic energy clash, mist and shadows, 3D anime style, PG-13.",
+    "video_prompt": "Camera cranes up as the silver warrior descends, then follows the dark figure leaping from the grass. Fast motion, sword swing with energy trail.",
+    "narration": "执法堂首席秦墨从天而降，银袍翻飞如雪。他执三尺青锋，剑指草丛，冷声让沈无渊滚出来。三息过后，他一剑刺出，沈无渊被迫跃出草丛，暴露在月光之下。"
+  },
+  {
+    "shot": 4,
+    "scene": "乱葬岗空地",
+    "action": "秦墨与沈无渊对峙，秦墨收剑质问蛊虫来历，沈无渊冷笑回应，然后突然转身冲向山崖边缘",
+    "characters": [
+      "秦墨",
+      "沈无渊"
+    ],
+    "camera": "static",
+    "mood": "epic",
+    "image_prompt": "Two men face off in a moonlit graveyard. One in silver robes, sword lowered, expression cold. The other in tattered black robes, blood on his shoulder, a defiant smirk. Behind them, a cliff edge drops into misty darkness. Dramatic lighting, energy particles, 3D anime style, PG-13.",
+    "video_prompt": "Static camera captures the tense standoff. The dark figure suddenly turns and sprints toward the cliff, camera stays still as he leaps off frame.",
+    "narration": "秦墨收剑，质问沈无渊体内的蛊虫来历。沈无渊冷笑回应后，突然转身冲向山崖。秦墨一剑斩出，剑芒擦过他的左肩，鲜血飞溅，沈无渊却借着这股力量跃下悬崖，消失在夜雾中。"
+  },
+  {
+    "shot": 5,
+    "scene": "深谷密林中",
+    "action": "沈无渊包扎伤口后踉跄前行，突然遇到站在枯木上的陆九幽，两人对话，陆九幽揭露宗主是幕后黑手",
+    "characters": [
+      "沈无渊",
+      "陆九幽"
+    ],
+    "camera": "dolly_in",
+    "mood": "mysterious",
+    "image_prompt": "A wounded man in dark robes stands in a dense forest, moonlight filtering through leaves. On a dead tree branch, a pale figure in a black hood watches him, face covered in glowing golden runes. Mysterious atmosphere, shadow and light, 3D anime style, PG-13.",
+    "video_prompt": "Camera slowly dollies in on the wounded man as he looks up at the figure on the branch. The figure removes his hood, revealing rune-covered face. Subtle mist and fireflies.",
+    "narration": "深谷密林中，沈无渊咬牙包扎伤口。突然，他停住脚步——前方枯木上站着一个黑袍人。那是陆九幽，三年前交给他噬魂蛊卵的人。陆九幽告诉他，要杀他的人是宗主，因为他是唯一知道那个秘密的人。"
+  },
+  {
+    "shot": 6,
+    "scene": "密林中，光柱笼罩",
+    "action": "灵识搜索阵的光柱从天而降，秦墨率执法堂弟子追来，陆九幽被银针击中倒地，沈无渊握紧拳头决定不再逃跑",
+    "characters": [
+      "沈无渊",
+      "陆九幽",
+      "秦墨"
+    ],
+    "camera": "tilt_up",
+    "mood": "dark",
+    "image_prompt": "A brilliant white light pillar descends from the sky, illuminating a forest clearing. A man in black robes stands over a fallen companion, his face grim. In the background, silver-robed warriors approach through the trees. Dramatic contrast, energy beams, 3D anime style, PG-13.",
+    "video_prompt": "Camera tilts up from the fallen man to the light pillar, then pans to the approaching warriors. The standing man clenches his fists, camera focuses on his determined expression.",
+    "narration": "灵识搜索阵的光柱从天而降，秦墨率执法堂弟子追来。陆九幽被暗处的银针击中倒地，让沈无渊快走。沈无渊握紧拳头，看着倒下的兄弟和逼来的追兵，眼神变得冰冷——他决定不再逃跑。"
+  },
+  {
+    "shot": 7,
+    "scene": "密林空地，光柱下",
+    "action": "沈无渊转身面对追兵，催动噬魂蛊，眼睛变成金色，一道屏障挡住十道剑气，他反击杀死两名弟子，与秦墨刀剑相撞",
+    "characters": [
+      "沈无渊",
+      "秦墨",
+      "执法堂弟子"
+    ],
+    "camera": "static",
+    "mood": "epic",
+    "image_prompt": "A man with glowing golden eyes stands in a forest clearing, his right hand raised, a golden energy barrier deflecting multiple sword strikes. Sparks fly. Behind him, a bright light pillar. He faces a silver-robed warrior, their weapons clashing in a burst of light. Intense energy, dramatic composition, 3D anime style, PG-13.",
+    "video_prompt": "Static wide shot captures the energy barrier deflecting sword strikes. Camera zooms in as the man's eyes glow brighter, then cuts to the sword clash with energy burst and slow motion.",
+    "narration": "沈无渊转过身，催动噬魂蛊。他的眼睛变成金色，一道屏障挡住了十道剑气。他抬手反击，两名执法堂弟子身体炸开。秦墨横剑格挡，刀剑相撞，爆发出刺目的白光。沈无渊知道，这还不够，但他必须活下去。"
+  }
+]

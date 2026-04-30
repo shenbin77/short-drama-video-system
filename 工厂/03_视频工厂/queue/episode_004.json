@@ -1,0 +1,119 @@
+{
+  "novel_name": "禁蛊录",
+  "episode_num": 4,
+  "chapter_num": 4,
+  "total_shots": 7,
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "荒镇废墟，黑夜",
+      "action": "沈无渊蹲在倒塌土楼上，左伤口渗血，盯着下方半掩铁门，透出昏黄光。",
+      "characters": [
+        "沈无渊",
+        "陆九幽"
+      ],
+      "camera": "pan_right",
+      "mood": "dark",
+      "image_prompt": "A ruined town at night, collapsed earth tower covered in moss, a young man in dark robes crouches on top, blood dripping from his left hand. Below, a rusty iron door half open, dim yellow light seeping out. Moody atmospheric lighting, shadow and mist, intense standoff vibe, PG-13, no blood details.",
+      "video_prompt": "Slow pan right from the iron door to the crouching young man, his hand trembles slightly, blood drops on moss, camera holds on his cold expression.",
+      "narration": "黑夜如墨泼在残破的荒镇。沈无渊蹲在土楼上，左手的伤口还在渗血。他盯着下方那扇半掩的铁门——暗市入口，昏黄的光线从门缝里透出。",
+      "image_path": null
+    },
+    {
+      "shot": 2,
+      "scene": "铁门通道，活尸守门",
+      "action": "沈无渊推开铁门，走下石阶，活尸睁眼转动眼珠，他按刀柄敲击刀格通过。",
+      "characters": [
+        "沈无渊",
+        "活尸守门"
+      ],
+      "camera": "dolly_in",
+      "mood": "mysterious",
+      "image_prompt": "A narrow stone staircase descending into darkness, walls covered in glowing blue-purple toxic mushrooms. Every few steps, dried corpses nailed to walls, their eyes suddenly open and follow a young man in dark robes walking past. He holds a sword hilt, thumb tapping rhythmically. Shadow and mist, ominous energy, PG-13, no explicit violence.",
+      "video_prompt": "Camera dollies in behind the young man as he descends the stairs, the corpses' eyes move in sync, his hand taps the sword hilt, tension builds.",
+      "narration": "铁门发出刺耳的尖叫。沈无渊走进通道，三十级石阶向下延伸，两侧墙壁爬满发光的毒蘑菇。每隔三步，墙上钉着活尸，它们睁开了眼，却没有攻击。令牌起了作用。",
+      "image_path": null
+    },
+    {
+      "shot": 3,
+      "scene": "暗市洞穴，巨大地下市场",
+      "action": "沈无渊进入洞穴，看到数千人聚集，摊位卖丹药、妖兽材料，还有铁笼囚禁修行者。",
+      "characters": [
+        "沈无渊",
+        "暗市人群"
+      ],
+      "camera": "crane_up",
+      "mood": "epic",
+      "image_prompt": "A vast underground cave, at least 100 zhang in diameter, stalactites hanging from ceiling covered in fluorescent moss forming eerie patterns. Thousands of people gather below, crowded stalls selling pills, beast materials, talismans. Iron cages hold ragged cultivators with suppression collars. Dramatic wide shot, moody atmospheric lighting, shadow and mist, epic scale, PG-13.",
+      "video_prompt": "Camera cranes up from the young man's entrance, revealing the entire underground market, then pans across the bustling crowd and cages, capturing the scale and tension.",
+      "narration": "穿过通道，眼前豁然开朗。一个巨大的地下洞穴，直径至少百丈。荧光苔藓在钟乳石上形成诡异图案。数千人聚集，摊位密密麻麻，还有铁笼里关着修行者——暗市，就在天衍宗山脚下。",
+      "image_path": null
+    },
+    {
+      "shot": 4,
+      "scene": "噬魂蛊摊位，老者对话",
+      "action": "沈无渊蹲下询问噬魂蛊价格，老者认出他体内蛊是宗主所养，告知秘密。",
+      "characters": [
+        "沈无渊",
+        "老者（无鼻）"
+      ],
+      "camera": "static",
+      "mood": "tense",
+      "image_prompt": "A corner of the dark market, a hooded old man with a scarred face and no nose crouches behind a dozen clay pots with red talismans. A young man in dark robes squats opposite, hand on sword hilt. Moody atmospheric lighting, shadow and mist, intense standoff, PG-13, no blood.",
+      "video_prompt": "Static camera on the two figures, the old man leans closer, whispers, the young man's eyes narrow, hand tightens on sword hilt.",
+      "narration": "一个裹着黑色斗篷的老者蹲在角落，身前摆着十几个陶罐，贴着血红色符咒。沈无渊走过去询问价格。老者抬起头，脸上全是疤痕——他闻出沈无渊体内的噬魂蛊，是宗主养的。",
+      "image_path": null
+    },
+    {
+      "shot": 5,
+      "scene": "铁笼前，苏暮雪求救",
+      "action": "沈无渊听到惨叫，走到大铁笼前，见到银发紫瞳女人苏暮雪求救。",
+      "characters": [
+        "沈无渊",
+        "苏暮雪"
+      ],
+      "camera": "dolly_out",
+      "mood": "mysterious",
+      "image_prompt": "A large iron cage in the dark market, inside a young woman with silver-white hair and half a fox mask, covered in dust and faint bloodstains. She looks up with purple eyes. A young man in dark robes stands before the cage, expression unreadable. Shadow and mist, moody atmospheric lighting, dramatic confrontation, PG-13.",
+      "video_prompt": "Camera dollies out from the woman's face to reveal the young man, then slowly zooms in on her purple eyes as she speaks, creating mystery.",
+      "narration": "洞穴深处传来一声惨叫。沈无渊循声走去，绕过几个摊位，看到一个大铁笼。笼子里关着一个银白色长发的女人，半张狐狸面具遮住右脸，她抬头时，露出了紫色的瞳孔。",
+      "image_path": null
+    },
+    {
+      "shot": 6,
+      "scene": "暗市对峙，秦墨出现",
+      "action": "内门长老带执法弟子包围沈无渊，秦墨出现宣布包围暗市，沈无渊斩杀长老。",
+      "characters": [
+        "沈无渊",
+        "内门长老（白袍）",
+        "秦墨",
+        "黑衣执法弟子"
+      ],
+      "camera": "pan_left",
+      "mood": "tense",
+      "image_prompt": "A dramatic standoff in the dark market, a young man in dark robes with black energy swirling around his left hand faces a white-robed elder and twenty black-clad enforcers holding silver chains. In the background, another figure in silver-white enforcement robe enters, carrying a severed head. Shadow and mist, intense martial arts stance, spirit power clash, PG-13, no blood details.",
+      "video_prompt": "Camera pans left across the enforcers, then focuses on the young man as he raises his hand, black energy forms a rune, the elder's face shows fear, sudden action.",
+      "narration": "内门长老挥手，二十个黑衣执法弟子现身，手持禁灵锁。沈无渊没有退，他指尖凝聚黑色蛊气，形成诡异符文。长老脸色一变——他宁愿引爆蛊毒，也不束手就擒。",
+      "image_path": null
+    },
+    {
+      "shot": 7,
+      "scene": "噬魂蛊护主，秦墨撤退",
+      "action": "弩箭射向沈无渊，噬魂蛊主动护主形成黑网，秦墨发现线索后决定撤退。",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "苏暮雪",
+        "黑衣执法弟子"
+      ],
+      "camera": "dolly_in",
+      "mood": "epic",
+      "image_prompt": "A young man in dark robes falls to one knee, an arrow in his left calf. Black threads burst from his skin, forming a net that deflects multiple crossbow bolts. His eyes turn pure black. In the background, a silver-robed figure watches, holding a black thread. Shadow and mist, dramatic energy burst, epic mood, PG-13, no explicit violence.",
+      "video_prompt": "Camera dollies in on the young man's face as his eyes turn black, the black net expands in slow motion, deflecting arrows, then cuts to the silver-robed figure examining a black thread.",
+      "narration": "弩箭如雨般射来。沈无渊闭上眼睛，噬魂蛊突然暴动——黑色丝线从皮肤下涌出，织成一张网，将弩箭全部挡住。他的瞳孔变成了纯粹的黑色。噬魂蛊第一次主动护主，代价是七天倒计时缩短到五天。",
+      "image_path": null
+    }
+  ],
+  "generated": false,
+  "generated_at": "2026-04-30 09:23:09"
+}

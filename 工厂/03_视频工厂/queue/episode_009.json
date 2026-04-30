@@ -1,0 +1,119 @@
+{
+  "novel_name": "禁蛊录",
+  "episode_num": 9,
+  "chapter_num": 9,
+  "total_shots": 7,
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "天衍宗外围暮色中，枯槐树下",
+      "action": "沈无渊蹲在阴影里，握紧玄机老人留下的银针，体内蛊王啃噬，眼神坚毅",
+      "characters": [
+        "沈无渊"
+      ],
+      "camera": "dolly_in",
+      "mood": "dark",
+      "image_prompt": "A young man with a scar over his left eye, wearing a dark blue robe, crouches in the shadow of a withered locust tree at dusk. The sky is thick with blood-red twilight. He holds three silver needles in his palm, trembling slightly, stained with black blood. His face is pale, sweat on his brow, eyes intense. The scene is moody with atmospheric lighting, shadows and mist swirling around him, ominous energy pulsing from his body.",
+      "video_prompt": "Camera slowly dollies in on the man's face as he clenches the needles, his breathing heavy, the shadows around him deepening, a faint green glow from his chest indicating the inner struggle.",
+      "narration": "暮色如血，沈无渊蹲在枯槐的阴影里。蛊王啃噬着他的肋骨，每一次呼吸都像在骨髓里翻涌。玄机老人的警告还在耳边回响，但他握紧了银针，眼中只有复仇的决意。",
+      "image_path": null
+    },
+    {
+      "shot": 2,
+      "scene": "天衍宗山门前，暮色中石阶和灯火",
+      "action": "沈无渊混入巡逻弟子中，压低帽檐，指尖捏着三枚银针，准备潜入",
+      "characters": [
+        "沈无渊",
+        "秦墨"
+      ],
+      "camera": "pan_right",
+      "mood": "tense",
+      "image_prompt": "A stone gate of a martial arts sect at dusk, lanterns flickering. A man in a dark robe with a lowered hat walks among a crowd of sect disciples in white and blue uniforms. His right hand is hidden in his sleeve, holding three silver needles. The atmosphere is tense, with shadows cast by the lanterns. In the background, a tall figure in white robes stands on the steps, watching, his face cold and sharp, hand on a jade token at his waist.",
+      "video_prompt": "Camera pans right to follow the man as he moves through the crowd, his movements fluid and cautious. The tall figure in white turns slowly, his gaze piercing, creating a sense of impending confrontation.",
+      "narration": "山门前灯火通明，沈无渊混在巡逻弟子中，压低帽檐。他指尖捏着淬毒的银针，准备潜入禁地。但身后传来冰冷的声音——秦墨的白袍在暮色中格外刺眼。",
+      "image_path": null
+    },
+    {
+      "shot": 3,
+      "scene": "山门前石阶上，秦墨与沈无渊对峙",
+      "action": "秦墨识破沈无渊身份，沈无渊投出三枚银针，秦墨躲闪并拍碎地面，二人短兵相接",
+      "characters": [
+        "沈无渊",
+        "秦墨"
+      ],
+      "camera": "static",
+      "mood": "epic",
+      "image_prompt": "A dramatic confrontation on stone steps at night, lit by lanterns and a faint moon. A man in a dark robe with a scarred face throws three silver needles that streak through the air like cold light. A tall man in white robes dodges, slamming a jade token onto the ground, causing stone slabs to explode into fragments. The dark-robed man lunges forward with a black bone blade, sparks flying as it clashes with golden light from the white-robed man's hand. The scene is intense, with spirit energy crackling around them.",
+      "video_prompt": "Static camera captures the fast-paced action: the needles fly, the ground explodes, and the two figures clash in a burst of sparks and energy, the camera remaining steady to emphasize the impact.",
+      "narration": "'拿下！'秦墨一声令下，沈无渊已先发制人。三枚银针破空而出，秦墨侧身躲过，玉牌拍碎地面。骨刃撞上金光，火花四溅，二人硬拼数招，气浪震得弟子东倒西歪。",
+      "image_path": null
+    },
+    {
+      "shot": 4,
+      "scene": "山门前，秦墨与沈无渊激战后的对峙",
+      "action": "秦墨质问沈无渊，沈无渊受伤但仍坚定，秦墨法剑劈下，沈无渊肩膀中剑",
+      "characters": [
+        "沈无渊",
+        "秦墨"
+      ],
+      "camera": "tilt_up",
+      "mood": "tense",
+      "image_prompt": "Close-up of a man with a bloodied shoulder, his dark robe stained black, leaning back against the stone steps. His face is pale but his eyes are fierce, like a lone wolf. Opposite him, a tall man in white robes holds a white sword with spiderweb-like cracks, pointing it at the wounded man. The surrounding disciples form a circle, holding torches that cast flickering shadows. The atmosphere is moody and tense, with a sense of impending doom.",
+      "video_prompt": "Camera tilts up from the wounded man's bloodied hand to his determined face, then to the sword pointed at him, capturing the standoff. The white-robed man's voice is cold as he speaks, the camera lingering on his expression.",
+      "narration": "'沈无渊，你还敢回来。你受伤了，蛊虫在反噬吧？'秦墨的法剑挑破沈无渊的衣袖，剑刃划过肩膀，带起一蓬血花。沈无渊咬紧牙关，眼神却越来越亮，像黑夜里的孤狼。",
+      "image_path": null
+    },
+    {
+      "shot": 5,
+      "scene": "山门前，沈无渊施展血祭之术",
+      "action": "沈无渊咬破舌尖，血箭喷在骨刃上，血光炸开化作血线攻击周围弟子，秦墨受伤",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "天衍宗弟子"
+      ],
+      "camera": "crane_up",
+      "mood": "mysterious",
+      "image_prompt": "A dramatic energy burst in a night scene. A man in a dark robe bites his tongue and sprays blood onto a black bone blade, which erupts with blinding red light. The light splits into thousands of fine blood threads that shoot outward in all directions, piercing the foreheads of surrounding disciples. They collapse with expressions of shock. The white-robed man deflects some threads but is hit in the shoulder, stumbling back. The air distorts with heat and ominous energy, the ground covered in shadows and mist.",
+      "video_prompt": "Camera cranes up from the man's face to show the full explosion of blood light, then pans down to capture the threads hitting the disciples. The movement is fluid, emphasizing the chaotic and mystical nature of the spell.",
+      "narration": "沈无渊咬破舌尖，血箭喷在骨刃上。血光炸开，化作无数血线射向四周。弟子们还没反应过来就被扎入眉心，倒地七窍流血。秦墨也被数根血线穿透护体金光，喷出黑血。",
+      "image_path": null
+    },
+    {
+      "shot": 6,
+      "scene": "山门前，玄机老人出现，苏晚晴介入",
+      "action": "玄机老人喝止沈无渊，给出玉简，苏晚晴用符纸制造银光掩护沈无渊撤退",
+      "characters": [
+        "沈无渊",
+        "玄机老人",
+        "苏晚晴",
+        "秦墨",
+        "天衍宗弟子"
+      ],
+      "camera": "dolly_out",
+      "mood": "epic",
+      "image_prompt": "A chaotic night scene at a sect gate. An elderly man with a bamboo staff walks out of the darkness, his face filled with anger and sorrow. He holds out a jade slip to a wounded man in a dark robe. Suddenly, a silver figure descends from the sky, a woman with silver hair and a fox mask, holding a burning talisman. The talisman explodes into a cascade of silver light that floods the area, blinding everyone. The scene is epic, with light and shadow mixing, the atmosphere dramatic and mysterious.",
+      "video_prompt": "Camera dollies out slowly from the elderly man to show the full scene, then captures the silver light explosion from a wide angle, the light washing over the characters. The camera holds on the wounded man's disappearance as the light fades.",
+      "narration": "'住手！'玄机老人拄着竹杖走出黑暗，递出玉简。沈无渊犹豫时，苏晚晴从天而降，符纸炸开，漫天银光倾泻而下。当光芒散去，沈无渊已消失不见，只留下秦墨铁青的脸。",
+      "image_path": null
+    },
+    {
+      "shot": 7,
+      "scene": "后山药庐，昏黄灯火下玄机老人与沈无渊对话",
+      "action": "沈无渊靠在墙边，玄机老人揭露宗主修炼禁忌之术，沈无渊得知父亲死因和母亲之死真相",
+      "characters": [
+        "沈无渊",
+        "玄机老人",
+        "苏晚晴"
+      ],
+      "camera": "static",
+      "mood": "dark",
+      "image_prompt": "A dimly lit herbal hut with a single oil lamp on a stone table. A young man with a deep sword wound on his chest sits against the wall, black blood seeping out. An elderly man sits at the table, a bamboo staff across his knees, his face shadowed and weary. A woman with silver hair and a fox mask stands by the door, looking out into the night. The atmosphere is heavy and sorrowful, with soft candlelight casting long shadows, the mood ominous and mysterious.",
+      "video_prompt": "Static camera focuses on the elderly man's face as he speaks gravely, then slowly pans to the young man's reaction as he clenches his fists. The camera holds on the silence, the only movement being the flickering candle flame.",
+      "narration": "药庐里，烛火昏黄。玄机老人终于开口：宗主修炼的禁忌之术，需吞噬九十九条至亲至爱的性命。你母亲的死，你父亲的死，都是因为这个秘密。沈无渊攥紧拳头，指甲掐进肉里。",
+      "image_path": null
+    }
+  ],
+  "generated": false,
+  "generated_at": "2026-04-30 09:25:22"
+}

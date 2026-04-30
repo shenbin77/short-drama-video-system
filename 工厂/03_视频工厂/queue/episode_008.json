@@ -1,0 +1,119 @@
+{
+  "novel_name": "禁蛊录",
+  "episode_num": 8,
+  "chapter_num": 8,
+  "total_shots": 7,
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "禁地第七层石门开启",
+      "action": "沈无渊站在石门前，指尖扣紧剑柄，踏入黑暗中。陆九幽手持金色蛊虫跟随。",
+      "characters": [
+        "沈无渊",
+        "陆九幽"
+      ],
+      "camera": "dolly_in",
+      "mood": "dark",
+      "image_prompt": "A dimly lit stone chamber, ancient stone door slowly opening, cold mist seeping out. Shen Wuyuan in dark robes, scar on left eye corner glowing faintly cyan, hand gripping sword hilt, stepping into shadow. Lu Jiuyou in black cloak holding a golden spirit insect with glowing wings. Moody atmospheric lighting, shadow and mist, ominous energy.",
+      "video_prompt": "Camera slowly pushes in as the stone door grinds open, mist swirls, Shen Wuyuan steps forward into darkness, golden insect wings flutter, slow motion dramatic entrance.",
+      "narration": "禁地第七层的石门缓缓开启，阴冷气息扑面而来。沈无渊站在门前，指尖死死扣住剑柄。他抬起脚，踏入黑暗中。",
+      "image_path": null
+    },
+    {
+      "shot": 2,
+      "scene": "甬道中的噬魂符文",
+      "action": "苏晚晴手指抚过石壁，指尖冒出青烟，发现噬魂符文。沈无渊盯着符文，发现与体内蛊虫纹路相同。",
+      "characters": [
+        "沈无渊",
+        "苏晚晴",
+        "陆九幽"
+      ],
+      "camera": "pan_right",
+      "mood": "mysterious",
+      "image_prompt": "A narrow stone corridor, walls covered in glowing runes like living veins. Su Wanqing in elegant robes, finger touching wall with wisps of green smoke rising. Shen Wuyuan staring intently at runes, his chest faintly glowing. Lu Jiuyou observing from behind. Shadow and mist, mysterious energy, cinematic lighting.",
+      "video_prompt": "Camera pans right along the rune-covered wall, smoke curls from Su Wanqing's finger, Shen Wuyuan's eyes trace the patterns, a slow reveal of the sinister runes.",
+      "narration": "门后的甬道宽约三丈，两侧石壁刻满密密麻麻的符文。苏晚晴的手指抚过石壁，指尖突然冒出一缕青烟——这是噬魂符文。",
+      "image_path": null
+    },
+    {
+      "shot": 3,
+      "scene": "青铜门与血印",
+      "action": "沈无渊将手按在青铜门手印上，银针刺破指尖，鲜血流入凹槽，门缓缓打开。",
+      "characters": [
+        "沈无渊"
+      ],
+      "camera": "tilt_up",
+      "mood": "tense",
+      "image_prompt": "A massive bronze door with a handprint indentation, Shen Wuyuan pressing his hand into it, silver needles piercing his fingertips, blood flowing into grooves. Door slowly grinding open, light spilling from behind. Dramatic energy burst, dark cinematic atmosphere, intense standoff.",
+      "video_prompt": "Camera tilts up from Shen Wuyuan's hand to his face, blood flows into the handprint, the bronze door rumbles open with a burst of light, slow dramatic reveal.",
+      "narration": "沈无渊伸出手，按在手印上。无数细如发丝的银针刺破他的指尖，青铜门发出沉闷的轰鸣声，门缓缓打开。",
+      "image_path": null
+    },
+    {
+      "shot": 4,
+      "scene": "石室中的白玉床与尸体",
+      "action": "石室中央白玉床上躺着与月姬一模一样的女人，胸口插着漆黑匕首。沈无渊认出那是父亲的武器。",
+      "characters": [
+        "沈无渊",
+        "陆九幽"
+      ],
+      "camera": "static",
+      "mood": "dark",
+      "image_prompt": "A vast stone chamber with a white jade bed at center, a woman in white robes with silver hair lying motionless, a black dagger embedded in her chest. Shen Wuyuan standing frozen, eyes wide with shock. Lu Jiuyou beside him, pointing at the body. Moody atmospheric lighting, shadow and mist, ominous energy.",
+      "video_prompt": "Static wide shot of the chamber, camera slowly focuses on the woman's face, then on the black dagger, Shen Wuyuan's shocked reaction, dramatic stillness.",
+      "narration": "石室中央，摆着一张白玉床。床上躺着一个女人，和月姬一模一样。但她的胸口，插着一柄漆黑的匕首——那是他父亲随身携带的武器。",
+      "image_path": null
+    },
+    {
+      "shot": 5,
+      "scene": "骸骨与信",
+      "action": "陆九幽掀开青石板，露出骸骨。沈无渊从骸骨手中抽出信，阅读父亲留下的真相。",
+      "characters": [
+        "沈无渊",
+        "陆九幽",
+        "苏晚晴"
+      ],
+      "camera": "crane_up",
+      "mood": "epic",
+      "image_prompt": "A stone chamber corner, Lu Jiuyou lifting a green stone slab, revealing a skeleton in faded robes, chest cavity empty. Shen Wuyuan kneeling, taking a yellowed letter from the skeleton's hand. Su Wanqing watching solemnly. Dramatic confrontation, shadow and mist, epic cinematic lighting.",
+      "video_prompt": "Camera cranes up from the skeleton to Shen Wuyuan's face as he reads the letter, his hands trembling, the paper crumbling to dust, dramatic emotional moment.",
+      "narration": "石板下，露出一具骸骨，胸口碎裂，心脏位置被掏空。骸骨的左手，死死攥着一封信。沈无渊俯身，从骸骨手中抽出那封信。",
+      "image_path": null
+    },
+    {
+      "shot": 6,
+      "scene": "蛊虫潮与秦墨对峙",
+      "action": "石室门关闭，黑色蛊虫从裂缝涌出。陆九幽放出金色蛊虫驱散虫潮。三人走出后，秦墨持剑拦路。",
+      "characters": [
+        "沈无渊",
+        "陆九幽",
+        "苏晚晴",
+        "秦墨"
+      ],
+      "camera": "dolly_out",
+      "mood": "tense",
+      "image_prompt": "A stone chamber floor cracking open, black spirit insects surging like a tide. Lu Jiuyou releasing a golden insect that glows. Shen Wuyuan and Su Wanqing standing back. Cut to outside corridor, Qin Mo in silver robes holding a sword, blade at Shen Wuyuan's neck. Intense martial arts stance, dramatic energy burst, shadow and mist.",
+      "video_prompt": "Camera dollies out as insects swarm, golden insect flies forward with a burst of light, insects retreat. Cut to Qin Mo blocking path, sword held to throat, tense standoff, slow motion.",
+      "narration": "石室的门突然关闭，地面龟裂，涌出无数黑色蛊虫。陆九幽放出金色蛊虫驱散虫潮。三人走出时，秦墨持剑拦路。",
+      "image_path": null
+    },
+    {
+      "shot": 7,
+      "scene": "玄机老人的警告",
+      "action": "沈无渊被蛊王反噬，嘴角溢血。玄机老人出现，揭示蛊王是父母留下的后手。",
+      "characters": [
+        "沈无渊",
+        "苏晚晴",
+        "玄机老人"
+      ],
+      "camera": "pan_left",
+      "mood": "mysterious",
+      "image_prompt": "A moonlit mountain path, Shen Wuyuan clutching his chest, black blood at corner of mouth. Su Wanqing beside him, concerned. In the distance, an old man in gray robes leaning on a bamboo staff, Xuanji Laoren, with a mysterious smile. Moody atmospheric lighting, shadow and mist, ominous energy.",
+      "video_prompt": "Camera pans left from Shen Wuyuan's pained face to the distant figure of Xuanji Laoren, slow reveal, dramatic dialogue moment, moonlight casting long shadows.",
+      "narration": "山路上，沈无渊突然捂住胸口，嘴角溢出一缕黑色的血。玄机老人拄着竹杖出现，脸上挂着神秘莫测的笑。",
+      "image_path": null
+    }
+  ],
+  "generated": false,
+  "generated_at": "2026-04-30 09:24:55"
+}

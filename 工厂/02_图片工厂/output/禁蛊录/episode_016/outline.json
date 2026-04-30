@@ -1,0 +1,100 @@
+[
+  {
+    "shot": 1,
+    "scene": "墓道尽头，血玉发光",
+    "action": "沈无渊握紧血玉，掌心冒烟，左眼血丝蔓延，噬魂蛊扭曲",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "dolly_in",
+    "mood": "tense",
+    "image_prompt": "A dark stone tomb corridor, a young man in ancient Chinese robes holds a glowing blood-red jade in his palm, smoke rising from his skin. His left eye is bloodshot with a shadowy worm-like figure writhing in the pupil. Moody atmospheric lighting, cracks of red light from the jade illuminating his tense face. Cinematic composition, PG-13.",
+    "video_prompt": "Camera slowly zooms in on the man's hand and face as the jade glows brighter, smoke curls, his eye twitches with the worm's movement. Dramatic tension.",
+    "narration": "墓道尽头，血玉突然滚烫。沈无渊掌心冒出白烟，左眼血丝蔓延，噬魂蛊的影子正在他瞳孔深处扭曲。"
+  },
+  {
+    "shot": 2,
+    "scene": "血玉炸裂，月婵幻影显现",
+    "action": "血玉炸裂成碎片，猩红雾气凝成年轻月婵的幻影，她跪地尖叫后溃散",
+    "characters": [
+      "沈无渊",
+      "月婵"
+    ],
+    "camera": "static",
+    "mood": "mysterious",
+    "image_prompt": "A stone chamber with shattered blood-red jade fragments embedded in the wall. A translucent spirit figure of a young woman in blood-stained robes kneels on the ground, hands on her belly, screaming in despair. Red mist swirls around her. Shadowy atmosphere, dramatic energy burst. PG-13, no violence.",
+    "video_prompt": "The jade explodes into fragments, red mist forms a kneeling woman's figure, she screams and dissolves into mist. Static camera captures the eerie transformation.",
+    "narration": "血玉炸裂，碎片嵌入墙壁。猩红雾气中凝成一道半透明身影——年轻时的月婵，她浑身是血，尖叫着消散。"
+  },
+  {
+    "shot": 3,
+    "scene": "密室中与玄机老人对峙",
+    "action": "沈无渊走进密室，玄机老人盘坐中央，金色纸片悬浮，他警告沈无渊看完会死",
+    "characters": [
+      "沈无渊",
+      "玄机老人"
+    ],
+    "camera": "pan_left",
+    "mood": "dark",
+    "image_prompt": "An ancient stone chamber with seven stone doors, each carved with glowing runes. An old man with a bamboo staff sits cross-legged in the center, blood streaming from his eyes and mouth. A floating golden paper glows before him. A young man in dark robes stands at the entrance, shadows and mist around them. Ominous energy, cinematic lighting.",
+    "video_prompt": "Camera pans left from the stone doors to the old man and floating paper, then to the young man entering. Tense standoff atmosphere.",
+    "narration": "第七道门大开，玄机老人盘坐在密室中央，七窍流血。他警告沈无渊，看完这页血神经，会死。"
+  },
+  {
+    "shot": 4,
+    "scene": "玄机老人傀儡攻击，沈无渊反击",
+    "action": "玄机老人一掌拍向沈无渊，他侧身闪避反击，傀儡碎片炸开，真正的老人从天花板落下攻击",
+    "characters": [
+      "沈无渊",
+      "玄机老人"
+    ],
+    "camera": "tilt_up",
+    "mood": "epic",
+    "image_prompt": "A stone chamber with shattered puppet fragments on the floor. A young man in dark robes dodges a palm strike from an old man with a bamboo staff. Golden threads wrap around the young man's limbs. Dramatic martial arts stance, intense energy clash, sparks from sword and staff collision. Shadow and mist, PG-13.",
+    "video_prompt": "Camera tilts up as the old man attacks from above, the young man dodges and counters, puppet explodes, golden threads entangle. Fast action with energy bursts.",
+    "narration": "玄机老人一掌拍向沈无渊天灵盖，他侧身闪避，反手剑格挡。傀儡碎片纷飞，真正的老人从天花板落下攻击。"
+  },
+  {
+    "shot": 5,
+    "scene": "金色纸片燃烧，月姬幻影出现",
+    "action": "沈无渊接过金色纸片，纸片燃烧成血红色火焰，火焰中浮现月姬的脸，她说话后纸片化为灰烬",
+    "characters": [
+      "沈无渊",
+      "月姬"
+    ],
+    "camera": "static",
+    "mood": "mysterious",
+    "image_prompt": "A dark stone chamber, a young man holds a burning golden paper in his hand. The flame is blood-red, and a woman's face emerges from the fire with a twisted smile. Her hair is long and pale, her expression both gentle and chilling. Moodly atmospheric, shadow and light play on the man's face. Cinematic, PG-13.",
+    "video_prompt": "The paper ignites in the man's hand, flame turns red, a woman's face forms in the fire, speaks, then the paper turns to ash. Static camera, dramatic close-up.",
+    "narration": "金色纸片燃烧，火焰是血红色的。火焰中浮现月姬的脸，她温柔却寒意刺骨地说，那页里封印着沈无渊妹妹的魂魄。"
+  },
+  {
+    "shot": 6,
+    "scene": "禁地血池，沈无渊与月姬对峙",
+    "action": "月姬站在血池中央，沈无渊进入，噬魂蛊暴动，他七窍流血跪倒，掌心生金眼震碎血矛",
+    "characters": [
+      "沈无渊",
+      "月姬"
+    ],
+    "camera": "crane_up",
+    "mood": "tense",
+    "image_prompt": "A vast underground chamber with a boiling blood pool in the center. A woman in white robes stained with red stands on the pool, surrounded by mist and shadow. A young man kneels on the stone edge, blood from his eyes and mouth, his left palm glowing with a golden eye that shoots light. Dramatic energy burst, moody atmospheric lighting, epic confrontation.",
+    "video_prompt": "Camera cranes up from the kneeling man to the woman on the blood pool, then back as the man's palm opens with a golden eye, light beams destroy blood spears. Intense standoff.",
+    "narration": "禁地深处，血池沸腾。月姬站在中央，沈无渊体内的噬魂蛊暴动，他七窍流血跪倒，掌心的金眼射出光芒震碎血矛。"
+  },
+  {
+    "shot": 7,
+    "scene": "秦墨加入战斗，沈无渊刺伤月姬后逃离",
+    "action": "秦墨从入口射入玉简形成结界，沈无渊冲向月姬，金眼吸收灵力，剑刺入她小腹，婴儿虚影消散，他拉着秦墨逃离",
+    "characters": [
+      "沈无渊",
+      "秦墨",
+      "月姬"
+    ],
+    "camera": "dolly_out",
+    "mood": "epic",
+    "image_prompt": "A dramatic scene in a blood pool chamber. A young man with a glowing golden eye in his palm holds a sword piercing a woman's abdomen, her body dissolving into red mist. A baby spirit figure fades in the mist. Another woman with white hair and torn robes stands nearby. Shadow and light, intense energy, cinematic composition. PG-13, no explicit gore.",
+    "video_prompt": "Camera dollies out from the sword impact, showing the baby spirit fading, the woman's body turning to mist, then the young man grabbing the other woman and running out of the chamber. Epic and tragic mood.",
+    "narration": "沈无渊剑刺入月姬小腹，婴儿虚影消散。他拉着秦墨冲出禁地，身后血雾弥漫，月姬的笑声回荡。"
+  }
+]

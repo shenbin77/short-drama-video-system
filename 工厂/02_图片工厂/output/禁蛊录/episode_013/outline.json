@@ -1,0 +1,99 @@
+[
+  {
+    "shot": 1,
+    "scene": "地下墓室，青铜棺材被铁链悬挂在血池上方",
+    "action": "沈无渊拉着苏晚晴冲出石门，身后铁链崩断，棺材砸入血池",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "dolly_out",
+    "mood": "tense",
+    "image_prompt": "A dark stone chamber with a bronze coffin suspended by rusted chains over a glowing blood pool. A man in faded blue robes pulls a woman in white robes toward a stone doorway. The chains snap and the coffin crashes into the pool, spraying blood. Moody atmospheric lighting, shadow and mist, ominous energy.",
+    "video_prompt": "Camera pulls back as the man and woman rush through the doorway, chains break, coffin falls into blood pool with splash, slow motion, dramatic energy burst.",
+    "narration": "青铜棺材的铁链崩断，血浪三丈高。沈无渊拉着苏晚晴冲出石门，身后传来腐蚀的嘶吼声。他必须找到第三具替身，否则一切都会太迟。"
+  },
+  {
+    "shot": 2,
+    "scene": "地下墓室外的夜色中，月光下",
+    "action": "沈无渊松开苏晚晴，询问第三具替身的位置，苏晚晴指向地下墓室",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "static",
+    "mood": "dark",
+    "image_prompt": "Night scene outside an underground tomb, moonlight illuminates a man in faded blue robes with a scar above his left eye glowing faintly black. A woman in white holds a broken compass. She points toward the dark entrance of the tomb. Shadow and mist, moody atmospheric lighting.",
+    "video_prompt": "Static shot, man turns to woman, she points, his expression is determined, slow breathing, ambient wind sounds.",
+    "narration": "夜色如墨，沈无渊的左眼角疤痕泛着青黑。苏晚晴的罗盘碎片散落一地，她指向地下墓室——那里封印着第三具替身，也是父亲留下的最后线索。"
+  },
+  {
+    "shot": 3,
+    "scene": "地下墓室入口，秦墨从黑暗中走出",
+    "action": "秦墨挥执法令阻止沈无渊，两人对峙，陆九幽出现",
+    "characters": [
+      "沈无渊",
+      "秦墨",
+      "陆九幽"
+    ],
+    "camera": "dolly_in",
+    "mood": "tense",
+    "image_prompt": "A dramatic standoff at a dark tomb entrance. A man with a white robe and glowing law token stands before a man in blue with black curse marks on his hand. A third man in black emerges from shadows, pale and coughing. Intense martial arts stance, shadow and mist, spirit power clash.",
+    "video_prompt": "Camera slowly pushes in on the confrontation, sparks fly from law token, curse marks glow, third man steps forward, slow motion, dramatic tension.",
+    "narration": "秦墨的执法令闪着电光，拦在沈无渊面前。但陆九幽从阴影中走出，让开一条路。沈无渊知道，他必须赌一把——用第三具替身里的东西，对抗即将苏醒的邪物。"
+  },
+  {
+    "shot": 4,
+    "scene": "地下墓室深处，石阶和壁画",
+    "action": "沈无渊独自走下石阶，看到壁画和文字",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "tilt_down",
+    "mood": "mysterious",
+    "image_prompt": "A shadowy stone staircase descending into darkness, walls covered with ancient murals of twisted faces. A man in blue robes walks down alone, his left hand glowing with black curse marks. Faint red text on the wall reads 'Nine hundred ninety-nine children's blood'. Moody atmospheric lighting, shadow and mist, ominous energy.",
+    "video_prompt": "Camera tilts down following the man descending, murals distort, text glows red, footsteps echo, slow and deliberate pace.",
+    "narration": "石阶向下延伸，墙上的壁画扭曲成诡异的面容。沈无渊看到一行暗红文字——需九百九十九童子心血。他继续向下，因为前方就是第三具替身的封印之地。"
+  },
+  {
+    "shot": 5,
+    "scene": "石门后，祭坛前",
+    "action": "沈无渊发现干尸和帛书，取出骨针",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "static",
+    "mood": "calm",
+    "image_prompt": "A stone chamber with an altar, a mummified corpse kneeling with chains through its collarbone. A man in blue stands before it, holding an ancient scroll. He pulls a silver needle from the corpse's side. Soft light from the needle, dust motes in air, calm but eerie atmosphere.",
+    "video_prompt": "Static shot, man reads scroll, his expression softens, he cuts open corpse's skin and extracts needle, slow motion, gentle light from needle.",
+    "narration": "干尸手中握着一卷帛书，是父亲的遗言。沈无渊取出左肋下的骨针，针身刻满解蛊之法。他终于明白——父亲早料到一切，留了后手。"
+  },
+  {
+    "shot": 6,
+    "scene": "地下行宫，水晶棺和黑坛",
+    "action": "地面塌陷，沈无渊落入地下行宫，月姬出现",
+    "characters": [
+      "沈无渊",
+      "月姬"
+    ],
+    "camera": "crane_up",
+    "mood": "epic",
+    "image_prompt": "A grand underground palace with a crystal coffin at center, surrounded by ninety-eight black jars. A woman in white with silver hair stands before the coffin, her hands forming a strange gesture. A man in blue falls through a hole above, landing before her. Dramatic lighting, shadow and mist, epic scale.",
+    "video_prompt": "Camera cranes up as floor collapses, man falls, then cranes down to reveal palace, woman turns to face him, slow motion, epic music swell.",
+    "narration": "地面塌陷，露出地下行宫。月姬站在水晶棺前，九十八个黑坛环绕四周。她终于等到这一刻——沈无渊体内的血神经最后六页，就在他的左眼瞳仁中。"
+  },
+  {
+    "shot": 7,
+    "scene": "地下行宫，祭坛前",
+    "action": "沈无渊拔骨针扎入胸口，吞噬九十八只灵蛊，发现月姬真身秘密",
+    "characters": [
+      "沈无渊",
+      "月姬"
+    ],
+    "camera": "dolly_in",
+    "mood": "dark",
+    "image_prompt": "A man in blue stands before a crystal coffin, a silver needle plunged into his chest. Black curse marks spread over his entire body. Ninety-eight black flying insects swarm into him. His eyes glow with ancient runes. The woman in white watches with a sinister smile. Shadow and mist, intense energy burst, dramatic lighting.",
+    "video_prompt": "Camera pushes in on man as he stabs himself, insects fly into him, his body convulses, curse marks glow, woman smiles, slow motion, dark energy swirls.",
+    "narration": "骨针刺入胸口，九十八只灵蛊涌入体内。沈无渊吞噬所有记忆后，看到月姬的真身——她藏在其中一只蛊中。父亲最后的布局，终于揭开。"
+  }
+]

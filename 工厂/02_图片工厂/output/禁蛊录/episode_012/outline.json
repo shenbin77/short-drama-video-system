@@ -1,0 +1,99 @@
+[
+  {
+    "shot": 1,
+    "scene": "洞穴内，血莲蛊发光",
+    "action": "沈无渊凝视血莲花心黑色珠子，珠子表面浮现血丝纹路，苏晚晴摘下面具警告",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "dolly_in",
+    "mood": "mysterious",
+    "image_prompt": "A dark cave illuminated by eerie red light from a blood lotus flower. Shen Wuyuan, a young man with sharp features and dark hair, stands close to the flower, staring at a black bead in its center. Su Wanqing, with silver hair and a pale face, removes her fox mask. The bead has vein-like red lines pulsing. Atmospheric lighting, shadows, mystical energy.",
+    "video_prompt": "Camera slowly zooms in on the black bead as it pulses with red veins. Su Wanqing's silver hair drifts in dark wind. Shen Wuyuan's hand reaches forward but stops. Mysterious, slow motion.",
+    "narration": "血莲蛊的血光照亮洞穴，沈无渊盯着花心那颗黑色珠子，表面浮现血丝般的纹路。苏晚晴摘下面具，轻声警告他别碰。"
+  },
+  {
+    "shot": 2,
+    "scene": "洞穴深处，沈无渊取出古卷和钥匙",
+    "action": "沈无渊取出玄机老人的血封古卷和青铜钥匙，钥匙靠近珠子时锈迹剥落",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "pan_right",
+    "mood": "tense",
+    "image_prompt": "Shen Wuyuan holds an ancient scroll sealed with blood and a rusted bronze key. Su Wanqing watches intently. The key approaches the black bead, rust flakes falling. Cave walls with dripping water, dim firelight casting long shadows. Dramatic tension, close-up on key and bead.",
+    "video_prompt": "Pan right from Shen Wuyuan's face to his hands holding the key. Rust falls as key nears bead. Slow motion, tense atmosphere, water dripping sound effect.",
+    "narration": "沈无渊取出玄机老人留下的血封古卷，另一只手握着青铜钥匙。钥匙靠近珠子的瞬间，锈迹开始剥落，整个洞穴的气氛变得凝重。"
+  },
+  {
+    "shot": 3,
+    "scene": "钥匙触碰珠子，洞穴震动，幻觉出现",
+    "action": "钥匙触碰珠子引发震动，血莲花瓣收缩，沈无渊被刺伤，进入幻觉密室",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "crane_up",
+    "mood": "mysterious",
+    "image_prompt": "A dramatic moment: bronze key touches black bead, causing the cave to shake. Blood lotus petals contract like a closing hand. Shen Wuyuan's hand bleeds from thorns. His eyes widen as vision shifts to a dim chamber with an oil lamp. A white-haired man's back silhouette, carving runes on a wooden puppet. Mystical, ethereal lighting.",
+    "video_prompt": "Camera cranes up as cave shakes. Transition from cave to chamber via blur. Man carving runes on puppet, oil lamp flickering. Slow reveal of man's face. Mysterious, surreal.",
+    "narration": "钥匙触碰珠子的瞬间，洞穴震动，血莲花瓣猛然收缩。沈无渊被刺伤，眼前画面转换，他来到一间昏暗的密室，一个白发男人背对着他。"
+  },
+  {
+    "shot": 4,
+    "scene": "幻觉中男人转身，沈无渊认出父亲",
+    "action": "白发男人转身，露出与沈无渊相似的脸，沈无渊震惊，幻觉碎裂",
+    "characters": [
+      "沈无渊",
+      "沈无渊父亲"
+    ],
+    "camera": "static",
+    "mood": "epic",
+    "image_prompt": "In a dim chamber, a white-haired man with a face seven-tenths similar to Shen Wuyuan turns around. He has wrinkles at eyes, deep black eyes, a bitter smile. Shen Wuyuan stands frozen, shock on his face. Oil lamp casts warm light. Wooden puppet with no face on table. Emotional, intimate composition.",
+    "video_prompt": "Static shot as man turns slowly. Shen Wuyuan's expression shifts from shock to recognition. Vision shatters into fragments. Quick cut to Shen Wuyuan lying on cave floor. Emotional, dramatic.",
+    "narration": "男人转过身，一张与沈无渊七分相似的脸。沈无渊喉咙发紧，心中已有答案。画面轰然碎裂，他回到现实，苏晚晴正按着他的胸口。"
+  },
+  {
+    "shot": 5,
+    "scene": "洞穴中沈无渊醒来，珠子悬浮",
+    "action": "沈无渊推开苏晚晴，黑色珠子脱离花心悬浮，散发幽冷光芒",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "tilt_up",
+    "mood": "calm",
+    "image_prompt": "Shen Wuyuan lies on cave floor, Su Wanqing leaning over him with silver hair and purple eyes. He pushes her away. The black bead floats in mid-air, emitting cold light. Blood lotus petals fall as ash. Cave walls in background. Intense standoff, moody lighting.",
+    "video_prompt": "Tilt up from Shen Wuyuan's face to floating bead. Bead pulses with cold light. Su Wanqing steps back. Slow motion, calm yet tense atmosphere.",
+    "narration": "沈无渊推开苏晚晴，撑起身子。那颗黑色珠子已经脱离血莲花心，悬浮在他面前，散发出幽冷的光芒。他看到了父亲，看到了一个封字。"
+  },
+  {
+    "shot": 6,
+    "scene": "血莲枯萎，石门出现",
+    "action": "血莲枯萎化为飞灰，珠子落入沈无渊掌心，浮现字迹，石门露出",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "dolly_out",
+    "mood": "dark",
+    "image_prompt": "Blood lotus withers completely, petals turning to ash. Shen Wuyuan catches the black bead in his palm. Bead surface shows tiny characters: 'My son, do not uncover, seal forever under Seven Peaks'. Behind, a stone door covered in dense runic carvings appears, some cracked with black mist seeping out. Dark, ominous energy.",
+    "video_prompt": "Dolly out from bead in palm to reveal stone door. Bead glows as characters appear. Mist seeps from cracks. Slow zoom out, dark and mysterious mood.",
+    "narration": "血莲枯萎化为飞灰，珠子落入沈无渊掌心。表面浮现一行字：吾儿勿揭，永镇七峰。血莲枯萎后，露出墙壁上一道刻满符咒的石门。"
+  },
+  {
+    "shot": 7,
+    "scene": "石门符咒破碎，黑雾凝聚人形",
+    "action": "沈无渊触碰石门，符咒发光后碎裂更多，黑雾凝聚成人形轮廓",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "pan_left",
+    "mood": "tense",
+    "image_prompt": "Shen Wuyuan presses his hand on the stone door. Broken runes glow with heat, then shatter further. Black mist seeps from cracks, forming humanoid shapes with heads and limbs. Su Wanqing draws silver needles from her sleeve. Cave interior, dramatic energy burst, shadow and mist, intense standoff.",
+    "video_prompt": "Pan left from Shen Wuyuan's hand on door to mist forming shapes. Runes glow and break. Mist swirls into human silhouettes. Su Wanqing prepares needles. Dramatic, tense, fast cuts.",
+    "narration": "沈无渊把手按在石门上，破碎的符咒感受到他的体温开始发光，然后碎裂更多。黑雾越来越浓，开始凝聚成一团一团的人形轮廓。"
+  }
+]

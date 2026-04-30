@@ -1,0 +1,121 @@
+{
+  "novel_name": "禁蛊录",
+  "episode_num": 5,
+  "chapter_num": 5,
+  "total_shots": 7,
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "暗市出口石门缓缓合拢，雨中银色箭雨袭来",
+      "action": "沈无渊抱起苏暮雪翻滚躲避禁灵弩箭，一支箭擦过左肩，黑血溅出",
+      "characters": [
+        "沈无渊",
+        "苏暮雪",
+        "秦墨"
+      ],
+      "camera": "dolly_in",
+      "mood": "tense",
+      "image_prompt": "A dramatic scene in a dark rainy alley at night, a stone gate closing behind, silver crossbow bolts streak through the rain like flowing light, a man in dark robes carrying a pale woman rolls on wet ground, blood splatters on cobblestones, moody atmospheric lighting with mist and shadows, intense martial arts stance, cinematic composition",
+      "video_prompt": "Camera dollies in slowly as rain pours, silver bolts fly through the air, the man rolls with the woman, one bolt grazes his shoulder, blood sprays, slow motion effect, dramatic energy",
+      "narration": "暗市石门轰然合拢，雨幕中银光撕裂夜空。沈无渊抱着苏暮雪翻滚躲避，禁灵弩箭擦过左肩，黑血溅出。秦墨的声音从执法堂队列中传出，冷如寒铁。",
+      "image_path": null
+    },
+    {
+      "shot": 2,
+      "scene": "沈无渊环视四周，苏暮雪在耳边低语密道位置",
+      "action": "沈无渊估算距离和体力，苏暮雪强撑着指向怀中匕首，告知东面密道",
+      "characters": [
+        "沈无渊",
+        "苏暮雪"
+      ],
+      "camera": "pan_left",
+      "mood": "mysterious",
+      "image_prompt": "A dark alley at night with heavy rain, three stone walls blocking escape, a man in dark robes holds a dying woman with purple eyes, she whispers in his ear, a blue-green dagger with runes at her waist, moody shadow and mist, ominous energy, intense standoff, cinematic lighting with rain streaks",
+      "video_prompt": "Camera pans left slowly showing the blocked exits, then focuses on the woman whispering, her hand points to the dagger, rain drips from faces, tension builds",
+      "narration": "沈无渊扫视四周，暗市三面封死，唯东面可逃，但那却是猎场。苏暮雪咳血低语，告诉他东面猎场下方有密道。她指怀中匕首，青蓝匕鞘刻满符文。",
+      "image_path": null
+    },
+    {
+      "shot": 3,
+      "scene": "执法堂队形展开，沈无渊准备突围",
+      "action": "沈无渊抽出匕首和剑，与秦墨对峙，秦墨倒数三息，沈无渊用匕首刺向自己胸口施展血遁术",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "执法堂弟子"
+      ],
+      "camera": "tilt_up",
+      "mood": "epic",
+      "image_prompt": "A rainy night scene, a line of silver-robed enforcers forming a wall, a man in dark robes with a sword and a rune dagger, his right foot steps back, rain drips from blade tip, dramatic energy burst, intense martial arts stance, moody atmospheric lighting with shadow and mist, cinematic composition",
+      "video_prompt": "Camera tilts up from the ground showing the standoff, the man stabs the dagger into his own chest, blood sprays turning into red mist, the enforcers release arrows, slow motion, dramatic energy burst",
+      "narration": "秦墨抬手，执法堂队形展开如银白之墙。沈无渊倒数三息，在秦墨挥手下令放箭的刹那，将匕首刺入胸口。血雾爆开，化作血红色雾气罩住两人。",
+      "image_path": null
+    },
+    {
+      "shot": 4,
+      "scene": "猎场地下密道，黑暗黏稠，沈无渊从血雾中跌出",
+      "action": "沈无渊抱着昏迷的苏暮雪从血雾中跌出，包扎伤口，噬魂蛊开始躁动，地底传来虫鸣",
+      "characters": [
+        "沈无渊",
+        "苏暮雪"
+      ],
+      "camera": "crane_up",
+      "mood": "dark",
+      "image_prompt": "A dark underground stone tunnel, thick shadows like blood, a man in torn robes collapses from red mist holding an unconscious woman, blood seeps from his shoulder wound, black veins on his arm, faint green insect glow in the distance, moody atmospheric lighting, shadow and mist, ominous energy, cinematic composition",
+      "video_prompt": "Camera cranes up from the tunnel floor as the man falls, blood pools, his hands tremble wrapping the wound, insect chirping grows louder, darkness closes in, tense atmosphere",
+      "narration": "猎场地下密道，黑暗黏稠如血。沈无渊从血雾中跌出，苏暮雪已昏迷。他咬牙包扎伤口，噬魂蛊开始躁动。前方黑暗中传来虫鸣，成千上万只蛊虫的嗡鸣在地底回响。",
+      "image_path": null
+    },
+    {
+      "shot": 5,
+      "scene": "火折子照亮密道尽头，陆九幽现身",
+      "action": "火折子亮起，照出陆九幽佝偻的身影，他走到苏暮雪面前查看伤口，认出她是天衍宗漏网之鱼",
+      "characters": [
+        "沈无渊",
+        "陆九幽",
+        "苏暮雪"
+      ],
+      "camera": "dolly_out",
+      "mood": "mysterious",
+      "image_prompt": "A dim underground tunnel, a single flame illuminates a hunchbacked man in black robes with golden insect runes, pale sickly skin, deep-set eyes with a creepy smile, he kneels beside an unconscious woman, his hand touches her chin, black insect swirls at his feet, moody atmospheric lighting, shadow and mist, mysterious energy, cinematic composition",
+      "video_prompt": "Camera dollies out slowly from the flame, revealing the hunchbacked man standing, he moves to the woman, examines her wound, his eyes widen in recognition, insects crawl from the walls forming a vortex, dramatic reveal",
+      "narration": "火折子亮起，照出一个佝偻的身影。陆九幽，暗市传说中的疯子蛊师。他认出苏暮雪是天衍宗的漏网之鱼，从袍中取出骨哨吹响，密道深处的蛊虫汇聚成黑色漩涡。",
+      "image_path": null
+    },
+    {
+      "shot": 6,
+      "scene": "古尸浮起，陆九幽拔出铁剑揭示噬魂蛊的真相",
+      "action": "古尸从黑色漩涡中浮起，陆九幽拔出铁剑，古尸眼中射出黑芒，记忆碎片涌入沈无渊脑海",
+      "characters": [
+        "沈无渊",
+        "陆九幽",
+        "古尸"
+      ],
+      "camera": "tilt_down",
+      "mood": "epic",
+      "image_prompt": "A dark underground chamber, a floating ancient corpse in Taoist robes with a rusted iron sword in its chest, runes glowing red, a man pulls the sword, the corpse's eyes open with red light, a beam of darkness shoots into another man's arm, black veins spread, spirit power clash, moody atmospheric lighting, shadow and mist, dramatic energy burst, cinematic composition",
+      "video_prompt": "Camera tilts down from the ceiling as the corpse rises, the man pulls the sword with effort, the corpse's eyes glow, a dark beam connects to the other man, memory fragments flash in the air, slow motion, epic energy",
+      "narration": "陆九幽拔出古尸胸口的铁剑，古尸眼中射出黑芒，噬魂蛊瞬间暴动。记忆碎片涌入脑海——三年前天府覆灭之夜，白发老者将幼蛊打入一个孩子体内。那个孩子，就是沈无渊。",
+      "image_path": null
+    },
+    {
+      "shot": 7,
+      "scene": "陆九幽提出交易，月姬突然出现",
+      "action": "陆九幽提出救苏暮雪换沈无渊帮忙取师兄尸体解蛊，沈无渊答应，月姬从石壁中走出",
+      "characters": [
+        "沈无渊",
+        "陆九幽",
+        "苏暮雪",
+        "月姬"
+      ],
+      "camera": "static",
+      "mood": "tense",
+      "image_prompt": "A dark underground tunnel, two men face each other, one holds a golden insect, the other holds an unconscious woman, a golden insect is crushed and drips into the woman's wound, the tunnel wall explodes, a white-robed woman with silver hair steps through the dust, her eyes lock onto the man, moonlight-like aura, ominous energy, intense standoff, moody atmospheric lighting, cinematic composition",
+      "video_prompt": "Camera static as the man crushes the golden insect and heals the woman, then the wall explodes, a woman in white steps through the dust, her gaze fixed on the man, his arm veins pulse, tension peaks, dramatic reveal",
+      "narration": "陆九幽提出交易:救苏暮雪，换沈无渊帮忙取师兄尸体解蛊。沈无渊答应。但密道深处传来沉重脚步声，石壁轰然炸开，月姬从烟尘中走出，银色长发飘动，目光锁定沈无渊。",
+      "image_path": null
+    }
+  ],
+  "generated": false,
+  "generated_at": "2026-04-30 09:23:37"
+}

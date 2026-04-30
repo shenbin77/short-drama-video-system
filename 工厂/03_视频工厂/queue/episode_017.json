@@ -1,0 +1,121 @@
+{
+  "novel_name": "禁蛊录",
+  "episode_num": 17,
+  "chapter_num": 17,
+  "total_shots": 7,
+  "shots": [
+    {
+      "shot": 1,
+      "scene": "禁地入口，结界碎裂的废墟",
+      "action": "秦墨的结界碎裂，银白光纹崩散，他闷哼倒地。沈无渊背对而立，右手按在左腕金眼上。",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "月姬"
+      ],
+      "camera": "dolly_in",
+      "mood": "dark",
+      "image_prompt": "A 3D anime scene in a dark forbidden zone. Qin Mo lies on the ground in torn robes, silver light fragments scattering around him. Shen Wuyuan stands with back turned, one hand gripping his right wrist where a golden eye pulses under the skin. Moon Ji stands in white ceremonial robes, a blood droplet floating above her fingertip reflecting twisted faces. Moody atmospheric lighting, shadows and mist, ominous energy in the air.",
+      "video_prompt": "Camera slowly dollies in on Shen Wuyuan's back as light fragments fall. Moon Ji's blood droplet rotates slowly. Tense stillness with subtle energy fluctuations.",
+      "narration": "秦墨的结界在月姬的力量下碎裂，沈无渊没有回头。他知道，真正的战斗才刚刚开始。月姬指尖的血珠里，倒映着无数扭曲的面孔。",
+      "image_path": null
+    },
+    {
+      "shot": 2,
+      "scene": "禁地中央广场，石板碎裂",
+      "action": "沈无渊突然暴起，身体如弦弹出，右拳砸向月姬的符文屏障。金眼在拳面浮现，屏障炸裂出金色裂纹。",
+      "characters": [
+        "沈无渊",
+        "月姬"
+      ],
+      "camera": "pan_left",
+      "mood": "epic",
+      "image_prompt": "Dynamic 3D anime action shot. Shen Wuyuan mid-leap, body like a broken bowstring, fist glowing with golden eye patterns slamming into a translucent red barrier. The barrier cracks with golden fissures spreading like dead tree roots. Moon Ji floats backward three zhang, her palm showing a shattered blood rune. Stone floor shattered beneath Shen's takeoff point. Dramatic energy burst, spirit power clash, intense martial arts stance.",
+      "video_prompt": "Camera pans left following Shen's leap. Impact triggers slow-motion shattering of barrier with golden energy particles. Moon Ji floats backward gracefully.",
+      "narration": "沈无渊没有犹豫，金眼的力量在拳头表面浮现。屏障炸裂的瞬间，月姬终于露出了赞许的神色——噬魂蛊已经变异了三次。",
+      "image_path": null
+    },
+    {
+      "shot": 3,
+      "scene": "禁地深处，暗红雾气弥漫",
+      "action": "地面龟裂，暗红雾气凝成227个白衣女子虚影，每个都长着沈无渊母亲的脸。月姬的声音从四面八方传来。",
+      "characters": [
+        "沈无渊",
+        "月姬",
+        "母亲虚影"
+      ],
+      "camera": "crane_up",
+      "mood": "mysterious",
+      "image_prompt": "Eerie 3D anime scene in a mist-filled chamber. The ground cracks open, releasing dark red mist that coalesces into 227 ethereal female figures in white robes, all with the same gentle face. Shen Wuyuan stands in the center, his right hand trembling with the golden eye pulsing. Moon Ji's silhouette looms behind the mist, her voice echoing from all directions. Shadow and mist, moody atmospheric lighting, spiritual energy swirling.",
+      "video_prompt": "Camera cranes up from ground cracks to reveal the army of mist figures. They sway gently like reeds, speaking in unison. Shen's hand trembles in close-up.",
+      "narration": "地面裂开，暗红雾气凝成无数虚影。每一张都是沈无渊母亲的脸——月姬用她的残魂炼成了蛊母，分成了227份。",
+      "image_path": null
+    },
+    {
+      "shot": 4,
+      "scene": "禁地中央，沈无渊与月姬对峙",
+      "action": "沈无渊将右手插进自己胸口，金眼顺着手臂爬入胸膛。他的身体开始发出银白色月光，胸口裂开一道光缝，母亲魂魄溢出。",
+      "characters": [
+        "沈无渊",
+        "月姬",
+        "母亲魂魄"
+      ],
+      "camera": "dolly_in",
+      "mood": "tense",
+      "image_prompt": "Intense 3D anime confrontation. Shen Wuyuan's right hand plunged into his own chest, golden eye crawling up his arm into the wound. His body glows with cold silver moonlight, a crack opening in his chest releasing a wisp of silver-white soul in the shape of a woman. Moon Ji's face shows terror, her white robes beginning to crack from within. Dramatic lighting, spiritual energy radiance, shadow and light contrast.",
+      "video_prompt": "Camera dollies in on Shen's chest as light emerges. The golden eye moves like a living thing. Moon Ji's expression shifts from confidence to horror in slow motion.",
+      "narration": "沈无渊将手插入胸口，金眼里藏着母亲最后的魂魄。原来这十二年，母亲一直将自己的残魂藏在月姬的心脉中，等待反噬的时机。",
+      "image_path": null
+    },
+    {
+      "shot": 5,
+      "scene": "禁地崩塌，万丈深渊显现",
+      "action": "月姬暴怒，身体布满蛊卵纹路。地面彻底碎裂，沈无渊脚下是深渊，头顶是裂开穹顶，无数蛊虫涌出。",
+      "characters": [
+        "沈无渊",
+        "月姬",
+        "秦墨"
+      ],
+      "camera": "tilt_up",
+      "mood": "epic",
+      "image_prompt": "Apocalyptic 3D anime scene. Moon Ji transformed, hair blood-red, body covered with pulsing egg-like patterns. The ground shatters into a bottomless abyss beneath Shen Wuyuan. The dome above cracks open, releasing a waterfall of glowing insects. Shen stands on a floating stone fragment, golden eye in his palm reflecting a full moon. Qin Mo struggles up from rubble in background. Dramatic epic scale, spirit energy chaos, shadow and light.",
+      "video_prompt": "Camera tilts up from the abyss to the shattered dome, showing the scale of destruction. Moon Ji's transformation ripples across her body. Insects pour down like a waterfall.",
+      "narration": "月姬暴怒，身体布满蛊卵纹路。地面彻底碎裂，万丈深渊浮现。但沈无渊知道，母亲留在他体内的力量，正是月姬的克星。",
+      "image_path": null
+    },
+    {
+      "shot": 6,
+      "scene": "禁地废墟，光与暗的交界",
+      "action": "月姬身体从内向外碎裂成银白色光片，光里浮现无数女子面孔。碎片重组为七岁小女孩，她开口叫沈无渊哥哥。",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "月姬/小女孩"
+      ],
+      "camera": "static",
+      "mood": "calm",
+      "image_prompt": "Poignant 3D anime moment. Moon Ji's body shatters like porcelain into silver-white light fragments, each piece reflecting a woman's face. The fragments reform into a seven-year-old girl in simple robes, her expression innocent. Shen Wuyuan stands frozen, tears in his eyes, the golden eye pulsing in his palm. Qin Mo watches from behind, covered in dust. Soft moonlight illumination, spiritual energy fading, bittersweet atmosphere.",
+      "video_prompt": "Static camera captures the transformation. Moon Ji's body dissolves into floating light fragments that slowly spiral together to form the girl. The girl's first word 'brother' echoes softly.",
+      "narration": "月姬的身体碎裂重组，变成一个七岁小女孩。她叫沈无渊哥哥——那是他妹妹的魂魄，但月姬的魂魄也寄生其中，纠缠不清。",
+      "image_path": null
+    },
+    {
+      "shot": 7,
+      "scene": "禁地深处，月光下的抉择",
+      "action": "沈无渊站在原地，金眼倒映满月。满月里，女孩和白发宫装女人纠缠在一起，分不清谁是谁。他无法下手。",
+      "characters": [
+        "沈无渊",
+        "秦墨",
+        "小女孩/月姬"
+      ],
+      "camera": "dolly_out",
+      "mood": "dark",
+      "image_prompt": "Melancholic 3D anime final shot. Shen Wuyuan stands alone on a crumbling stone platform, the golden eye in his palm reflecting a full moon. Inside the moon's reflection, two figures are entangled - a little girl and a white-robed woman, their forms merging and separating. Qin Mo watches from the shadows. Deep atmospheric lighting, silver moonlight, mist swirling, unresolved tension in the air.",
+      "video_prompt": "Camera slowly dollies out from the golden eye's reflection, revealing Shen's full figure and the devastated surroundings. The entangled figures in the moon reflection pulse gently. A long, heavy pause.",
+      "narration": "沈无渊站在原地，金眼里倒映着满月。满月里，妹妹和月姬的魂魄纠缠在一起，分不清谁是谁。他无法下手——因为救妹妹，就必须先杀死她。",
+      "image_path": null
+    }
+  ],
+  "generated": false,
+  "generated_at": "2026-04-30 09:28:43"
+}

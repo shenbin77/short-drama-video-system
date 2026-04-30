@@ -1,0 +1,100 @@
+[
+  {
+    "shot": 1,
+    "scene": "禁地深处，碎石坠落，月姬震惊",
+    "action": "沈无渊悬立半空，金色光芒笼罩，左眼疤痕泛金，月姬失声尖叫，右手成爪，紫黑灵力缠绕",
+    "characters": [
+      "沈无渊",
+      "月姬"
+    ],
+    "camera": "dolly_in",
+    "mood": "tense",
+    "image_prompt": "A dramatic scene in a deep forbidden land, rubble falling. Shen Wuyuan hovers mid-air, golden light enveloping him, a scar on his left eye glowing pale gold. Yue Ji screams in shock, her white robes billowing, right hand forming claws with purple-black spirit energy swirling. Moody atmospheric lighting, shadow and mist, intense standoff.",
+    "video_prompt": "Shen Wuyuan hovers with golden light, Yue Ji screams and attacks with claw-like hands. Camera dollies in to focus on Shen Wuyuan's glowing eye and Yue Ji's furious expression. Dramatic energy burst.",
+    "narration": "禁地深处，碎石簌簌坠落。沈无渊悬立半空，金色光芒笼罩全身。月姬失声尖叫，无法相信眼前景象。"
+  },
+  {
+    "shot": 2,
+    "scene": "母亲的声音从蛊虫中传出，沈无渊压抑情绪",
+    "action": "沈无渊低头看右手掌心金蛊振翅，母亲声音从蛊虫中传出，他眼眶发涩但强行压下情绪，平静应声",
+    "characters": [
+      "沈无渊"
+    ],
+    "camera": "static",
+    "mood": "calm",
+    "image_prompt": "Close-up of Shen Wuyuan's right hand, a golden Gu insect vibrating on his palm with tiny blood droplets on its antennae. His face shows restrained emotion, eyes slightly red but calm. Soft golden light from the Gu illuminates his hand and face. Mood of quiet determination and hidden pain.",
+    "video_prompt": "Close-up of Shen Wuyuan's hand with golden Gu insect. He looks down with restrained emotion, then speaks calmly. Static camera with soft golden glow.",
+    "narration": "母亲的声音从蛊虫中传出，带着十二年的封印与等待。沈无渊眼眶发涩，却强行压下翻涌的情绪，平静地应了一声。"
+  },
+  {
+    "shot": 3,
+    "scene": "月姬冷笑，禁地裂开，七道血色光柱冲天",
+    "action": "月姬冷笑，白袍浮现银色符咒，双手结印，禁地地面裂开，七道血色光柱冲天而起，她声称已腐蚀沈母魂魄",
+    "characters": [
+      "月姬",
+      "沈无渊"
+    ],
+    "camera": "crane_up",
+    "mood": "dark",
+    "image_prompt": "Yue Ji sneers coldly, her white robes covered in silver runes. She forms hand seals, causing the ground to crack open and seven blood-red light pillars to shoot up into the sky. Ominous energy, shadow and mist, dramatic lighting. Shen Wuyuan stands opposite her, golden light dimming slightly.",
+    "video_prompt": "Yue Ji forms hand seals, ground cracks, seven blood-red pillars erupt. Camera cranes up to show the full scale of the pillars. Dark, tense atmosphere with dramatic energy burst.",
+    "narration": "月姬冷笑，白袍浮现银色符咒。她双手结印，禁地地面裂开，七道血色光柱冲天而起，声称已腐蚀沈母魂魄。"
+  },
+  {
+    "shot": 4,
+    "scene": "沈无渊抬头，金蛊膨胀成八卦图，揭示母亲计划",
+    "action": "沈无渊抬头，黑瞳变金色，掌心金蛊膨胀成巨大金色八卦图，227点光芒闪烁，苏晚晴揭示母亲用自己魂魄做诱饵",
+    "characters": [
+      "沈无渊",
+      "苏晚晴"
+    ],
+    "camera": "dolly_out",
+    "mood": "epic",
+    "image_prompt": "Shen Wuyuan looks up, his black eyes now pure gold. His palm expands into a massive golden Bagua diagram with 227 glowing points. Su Wanqing stands nearby, her mask off, purple eyes complex. Dramatic golden light, epic scale, shadow and mist around. Intense martial arts stance.",
+    "video_prompt": "Shen Wuyuan looks up, golden Bagua diagram expands from his palm. Camera dollies out to reveal the full diagram and Su Wanqing's reaction. Epic golden light, dramatic energy burst.",
+    "narration": "沈无渊抬头，黑瞳变成金色。掌心金蛊膨胀成巨大八卦图，227点光芒闪烁。苏晚晴揭示，母亲用自己的魂魄做诱饵，十二年未曾被腐蚀。"
+  },
+  {
+    "shot": 5,
+    "scene": "月姬暴怒，释放黑色毒蛇锁链攻击沈无渊",
+    "action": "月姬彻底暴怒，体表白袍碎裂，黑色符咒纹路化作毒蛇，七道血色光柱收缩成锁链缠向沈无渊，每道锁链附着百只蛊虫",
+    "characters": [
+      "月姬",
+      "沈无渊"
+    ],
+    "camera": "pan_left",
+    "mood": "tense",
+    "image_prompt": "Yue Ji enraged, her white robes shattering to reveal black rune tattoos that transform into black snakes. Seven blood-red pillars contract into chains with hundreds of Gu insects, heading toward Shen Wuyuan. Dramatic confrontation, moody atmospheric lighting, shadow and mist, intense energy.",
+    "video_prompt": "Yue Ji's robes shatter, black snakes emerge, blood chains fly toward Shen Wuyuan. Camera pans left to follow the attack. Tense, dark atmosphere with dramatic energy burst.",
+    "narration": "月姬彻底暴怒，体表白袍碎裂，黑色符咒纹路化作毒蛇。七道血色光柱收缩成锁链，缠向沈无渊，每道锁链都附着百只蛊虫。"
+  },
+  {
+    "shot": 6,
+    "scene": "沈无渊觉醒玄天金瞳，一拳轰飞月姬",
+    "action": "沈无渊闭眼被金光包裹，睁眼时左眼疤痕裂开，金色瞳孔浮现银色弯月，轻吐'破'字，金色光芒爆发撕裂锁链，一拳轰飞月姬",
+    "characters": [
+      "沈无渊",
+      "月姬"
+    ],
+    "camera": "tilt_up",
+    "mood": "epic",
+    "image_prompt": "Shen Wuyuan opens his eyes, left eye scar splits revealing golden pupil with silver crescent moon. Golden light explodes outward, shattering blood chains and Gu insects. He punches Yue Ji, sending her flying into a stone tablet. Epic scale, dramatic energy burst, shadow and mist, intense martial arts stance.",
+    "video_prompt": "Shen Wuyuan opens eyes with golden-silver light, punches Yue Ji. Camera tilts up to show the full power of the golden explosion and Yue Ji's impact. Epic, dramatic energy burst.",
+    "narration": "沈无渊闭眼，被金光包裹。睁眼时，左眼疤痕裂开，金色瞳孔浮现银色弯月。他轻吐'破'字，金色光芒爆发，一拳轰飞月姬。"
+  },
+  {
+    "shot": 7,
+    "scene": "月姬被金线束缚，沈无渊找到妹妹，妹妹睁眼有月姬影子",
+    "action": "沈无渊用金线束缚月姬，金光爆开，月姬化作血雾后，禁地深处浮现少女身影（妹妹），少女睁眼，紫色瞳孔中有月姬影子，掐住沈无渊脖子",
+    "characters": [
+      "沈无渊",
+      "月姬",
+      "妹妹"
+    ],
+    "camera": "dolly_in",
+    "mood": "mysterious",
+    "image_prompt": "Shen Wuyuan stands in blood mist, golden threads binding Yue Ji. Then a young girl with silver hair emerges from purple light, her eyes closed, then opening to reveal purple pupils with Yue Ji's shadow. She grabs Shen Wuyuan's neck. Dramatic confrontation, shadow and mist, moody atmospheric lighting, ominous energy.",
+    "video_prompt": "Shen Wuyuan binds Yue Ji with golden threads, then a girl emerges from purple light and grabs his neck. Camera dollies in to focus on the girl's purple eyes with Yue Ji's shadow. Mysterious, tense atmosphere.",
+    "narration": "金光爆开，月姬化作血雾。禁地深处浮现少女身影，那是沈无渊失踪十二年的妹妹。她睁眼，紫色瞳孔里却有月姬的影子在笑。"
+  }
+]
