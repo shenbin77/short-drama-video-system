@@ -52,7 +52,7 @@ SB_SUFFIX     = STYLE_PRESETS["realistic"]["sb"]
 VISUAL_STYLE_ANCHOR = "3D_render, chinese_anime, xianxia_fantasy, highly_detailed, cinematic_lighting, volumetric_fog, mystical_atmosphere, eastern_fantasy_architecture"
 VISUAL_NEGATIVE = "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark"
 DEEPSEEK_URL  = "https://api.deepseek.com/v1/chat/completions"
-IMAGE_BACKEND = "gpt_image2"  # gpt_image2 | local_comfyui | qwen_edit_local | nvidia_flux | nano_banana | gemini_flash | fal_seedream4
+IMAGE_BACKEND = "apimart_image2"  # apimart_image2 | grsai_image2
 
 STYLE_PROFILE_PATH = str(get_style_profiles_path())
 _style_profile_cache = None
